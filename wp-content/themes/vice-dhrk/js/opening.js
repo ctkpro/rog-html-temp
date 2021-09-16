@@ -1,5 +1,5 @@
 jQuery(document).ready(function(){
-	if($('body.home').length){
+	if( jQuery('body').hasClass('home') ){
 
 		let w = window.innerWidth;
 		let video = document.querySelector('#ctk-video');

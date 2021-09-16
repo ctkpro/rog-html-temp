@@ -7,152 +7,151 @@ jQuery( document ).ready(function($) {
     var showCaption = 1;
     var loop = 1;
 
-    //Media lightbox
-    //Create overlay items
-    if($('body.home').length){
-        var $overlay = $('<div id="overlay"></div>');
-        var $lightboxMedia = $('<div class="lightbox-img"><img></div>');
-        var $image = $('<div class="lightbox-img"><img></div>');
-        var $holder = $('<div class="holder"></div>');
-        var $caption = $('<p></p>');
-        var $lightboxnav = $('<div class="lightbox-nav"></div>');
-        var $nav = $('<div class="nav"><a id="close" nohref><img src="../wp-content/themes/vice-dhrk/img/close.svg"></a><a id="prev" nohref><img src="../wp-content/themes/vice-dhrk/img/prev.svg"></a><a id="next" nohref><img src="../wp-content/themes/vice-dhrk/img/next.svg"></a></nav>');
-        var $info = $('<div class="info"></div>');
-        var glength = $('#imageGallery li').length;
-        var imageIndex, imageLocation, captionText, allowKeyboard;
+    // //Media lightbox
+    // //Create overlay items
+    // // var $overlay = $('<div id="overlay"></div>');
+    // // var $lightboxMedia = $('<div class="lightbox-img"><img></div>');
+    // // var $image = $('<div class="lightbox-img"><img></div>');
+    // // var $holder = $('<div class="holder"></div>');
+    // // var $caption = $('<p></p>');
+    // // var $lightboxnav = $('<div class="lightbox-nav"></div>');
+    // // var $nav = $('<div class="nav"><a id="close" nohref><img src="/wp-content/themes/vice-dhrk/img/close.svg"></a><a id="prev" nohref><img src="/wp-content/themes/vice-dhrk/img/prev.svg"></a><a id="next" nohref><img src="/wp-content/themes/vice-dhrk/img/next.svg"></a></nav>');
+    // // var $info = $('<div class="info"></div>');
+    // // var glength = $('#imageGallery li').length;
+    // // var imageIndex, imageLocation, captionText, allowKeyboard;
+
+    // // //Add overlay items to DOM
+    // // $('#overlay img').before('');
+    // // $holder.append( $lightboxMedia );
+    // // //$holder.append( $image );
+    // // $holder.append( $lightboxnav );
+    // // $lightboxnav.append( $nav );
+    // // $lightboxnav.append( $info );
+    // // if ( showCaption ){ $holder.append( $caption ); }
+    // // if ( !showNav ){ $nav.hide(); }
+    // // $overlay.append( $holder );
+    // // $("body").append( $overlay );
+    // // $($overlay).hide();
+
+    // //Click image link
+    // $('#imageGallery li').click( function(event) {
+    //     imageLocation = $(this).find('img').attr("src");
+    //     console.log(imageLocation);
+
+    //     // index of clicked item
+    //     imageIndex = $( '#imageGallery li' ).index(this) + 1;
+
+    //     //Image focused on
+    //     $image.find("img").attr("src", imageLocation);
+        
+    //     //Add and remove active class on link
+    //     $(this).addClass('active');
+    //     $('#imageGallery li').not(this).removeClass('active');
+        
+    //     //顯示圖片與資訊
+    //     $lightboxMedia.empty();
+    //     $lightboxMedia.append($(this).find(".lightbox-media").clone());
+    //     $info.empty();
+    //     $info.append($(this).find(".desc").clone());
+
+    //     allowKeyboard = 1;
+    //     $overlay.show(); 
+    // });
+
+    // //Close overlay
+    // $image.click(function() {
+    //     allowKeyboard = 0;
+    //     $($overlay).hide();
+    // });
+
+    // $overlay.click(function(e) {
+    //     if(e.target != this) return;
+    //     $(this).hide();
+    // });
+
+    // $('#close').click(function() {
+    //     $($overlay).hide();
+    // });
+    // //Cycle images
+    // $('#next').click(function() {
+    //     //check to see if its the last image
+    //     if (glength != imageIndex){
+    //         $('.active').closest('li').next().find('img').trigger('click');
+    //     } else if (loop == 1){
+    //         $('#imageGallery li').first().find('img').trigger('click');
+    //     } 
+    // });
+
+    // $("body").keydown(function(e) {
+    //     if (keyboardNav == 1 && allowKeyboard == 1) {
+    //         if(e.which == 37) { $('#prev').trigger("click"); }
+    //         else if(e.which == 39) { $('#next').trigger("click"); }	
+    //         else if(e.which == 27) { $($overlay).hide(); }	
+    //     }
+    // });
+
+    // $('#prev').click(function() {
+    //     //check to see if its the first image	
+    //     if (imageIndex != 1){
+    //         $('.active').closest('li').prev().find('img').trigger('click');	
+    //     } else if (loop == 1){
+    //         $('#imageGallery li').last().find('img').trigger('click');
+    //     }  
+    // });
+
+    // //Gamers內頁
     
-        //Add overlay items to DOM
-        $('#overlay img').before('');
-        $holder.append( $lightboxMedia );
-        //$holder.append( $image );
-        $holder.append( $lightboxnav );
-        $lightboxnav.append( $nav );
-        $lightboxnav.append( $info );
-        if ( showCaption ){ $holder.append( $caption ); }
-        if ( !showNav ){ $nav.hide(); }
-        $overlay.append( $holder );
-        $("body").append( $overlay );
-        $($overlay).hide();
-    }
-    //Click image link
-    $('#imageGallery li').click( function(event) {
-        imageLocation = $(this).find('img').attr("src");
-        console.log(imageLocation);
+    // //Add overlay items to DOM
+    // $('#overlay img').before('');
+    // $holder.append( $lightboxMedia );
+    // $holder.append( $lightboxnav );
+    // $lightboxnav.append( $info );
+    // if ( showCaption ){ $holder.append( $caption ); }
+    // if ( !showNav ){ $nav.hide(); }
+    // $overlay.append( $holder );
+    // $("body").append( $overlay );
+    // $($overlay).hide();
 
-        // index of clicked item
-        imageIndex = $( '#imageGallery li' ).index(this) + 1;
+    // //Click image link
+    // $('#gamer .info-img img').click( function(event) {
+    //     imageLocation = $(this).attr("src");
+    //     console.log(imageLocation);
 
-        //Image focused on
-        $image.find("img").attr("src", imageLocation);
+    //     // index of clicked item
+    //     imageIndex = $( '#gamer .info-img img' ).index(this) + 1;
+
+    //     //Image focused on
+    //     $lightboxMedia.find('img').attr("src", imageLocation);
+    //     console.log($lightboxMedia);
         
-        //Add and remove active class on link
-        $(this).addClass('active');
-        $('#imageGallery li').not(this).removeClass('active');
+    //     //Add and remove active class on link
+    //     $(this).addClass('active');
+    //     $('#gamer .info-img img').not(this).removeClass('active');
         
-        //顯示圖片與資訊
-        $lightboxMedia.empty();
-        $lightboxMedia.append($(this).find(".lightbox-media").clone());
-        $info.empty();
-        $info.append($(this).find(".desc").clone());
+    //     //顯示圖片與資訊
+    //     // $lightboxMedia.empty();
+    //     // $lightboxMedia.append($(this).find(".lightbox-media").clone());
+    //     // $info.empty();
+    //     // $info.append($(this).find(".desc").clone());
 
-        allowKeyboard = 1;
-        $overlay.show(); 
-    });
+    //     allowKeyboard = 1;
+    //     $overlay.show(); 
+    // });
 
-    //Close overlay
-    $image.click(function() {
-        allowKeyboard = 0;
-        $($overlay).hide();
-    });
+    // //Close overlay
+    // $image.click(function() {
+    //     allowKeyboard = 0;
+    //     $($overlay).hide();
+    // });
 
-    $overlay.click(function(e) {
-        if(e.target != this) return;
-        $(this).hide();
-    });
+    // $overlay.click(function(e) {
+    //     if(e.target != this) return;
+    //     $(this).hide();
+    // });
 
-    $('#close').click(function() {
-        $($overlay).hide();
-    });
-    //Cycle images
-    $('#next').click(function() {
-        //check to see if its the last image
-        if (glength != imageIndex){
-            $('.active').closest('li').next().find('img').trigger('click');
-        } else if (loop == 1){
-            $('#imageGallery li').first().find('img').trigger('click');
-        } 
-    });
-
-    $("body").keydown(function(e) {
-        if (keyboardNav == 1 && allowKeyboard == 1) {
-            if(e.which == 37) { $('#prev').trigger("click"); }
-            else if(e.which == 39) { $('#next').trigger("click"); }	
-            else if(e.which == 27) { $($overlay).hide(); }	
-        }
-    });
-
-    $('#prev').click(function() {
-        //check to see if its the first image	
-        if (imageIndex != 1){
-            $('.active').closest('li').prev().find('img').trigger('click');	
-        } else if (loop == 1){
-            $('#imageGallery li').last().find('img').trigger('click');
-        }  
-    });
-
-    //Gamers內頁
-    
-    //Add overlay items to DOM
-    $('#overlay img').before('');
-    $holder.append( $lightboxMedia );
-    $holder.append( $lightboxnav );
-    $lightboxnav.append( $info );
-    if ( showCaption ){ $holder.append( $caption ); }
-    if ( !showNav ){ $nav.hide(); }
-    $overlay.append( $holder );
-    $("body").append( $overlay );
-    $($overlay).hide();
-
-    //Click image link
-    $('#gamer .info-img img').click( function(event) {
-        imageLocation = $(this).attr("src");
-        console.log(imageLocation);
-
-        // index of clicked item
-        imageIndex = $( '#gamer .info-img img' ).index(this) + 1;
-
-        //Image focused on
-        $lightboxMedia.find('img').attr("src", imageLocation);
-        console.log($lightboxMedia);
-        
-        //Add and remove active class on link
-        $(this).addClass('active');
-        $('#gamer .info-img img').not(this).removeClass('active');
-        
-        //顯示圖片與資訊
-        // $lightboxMedia.empty();
-        // $lightboxMedia.append($(this).find(".lightbox-media").clone());
-        // $info.empty();
-        // $info.append($(this).find(".desc").clone());
-
-        allowKeyboard = 1;
-        $overlay.show(); 
-    });
-
-    //Close overlay
-    $image.click(function() {
-        allowKeyboard = 0;
-        $($overlay).hide();
-    });
-
-    $overlay.click(function(e) {
-        if(e.target != this) return;
-        $(this).hide();
-    });
-
-    $('#close').click(function() {
-        $($overlay).hide();
-    });
+    // $('#close').click(function() {
+    //     $($overlay).hide();
+    // });
 
     //Worldview
     // let cards = document.querySelectorAll('.card');
@@ -184,6 +183,9 @@ jQuery( document ).ready(function($) {
     //     })
     // })
     // jQuery('.card').eq(0).click();
+    let timer;
+    let current = 0;
+    let triggerInit = false;
     ancords.forEach( ele => {
         ele.addEventListener('click', () => {
             // setNumberToFirst(ele.dataset.slide);
@@ -201,17 +203,18 @@ jQuery( document ).ready(function($) {
             // jQuery('.card').eq(currentpoint).click();
             // jQuery('.slide_buttons').eq(currentpoint).click();
             
-            clearInterval(timer);
-            current = currentpoint;
-            playWorldview();
-        })          
+            if(triggerInit){
+                clearInterval(timer);
+                current = currentpoint;
+                playWorldview();
+            }
+        })    
     })
     jQuery('.anchor').eq(0).click();
-    let current = 0;
     function playWorldview(){
         timer = setTimeout(function(){
             $('.anchor[data-point='+current+']').click();
-        },5000);
+        },12000);
         current++;
         current = current > ancords.length-1 ? 0 : current;
     }
@@ -224,6 +227,7 @@ jQuery( document ).ready(function($) {
         if( scrolled > 1200 && inViewportPlayOnce){
             playWorldview();
             inViewportPlayOnce = false;
+            triggerInit = true;
         }
     })
 
@@ -458,5 +462,14 @@ jQuery( document ).ready(function($) {
     // 解內頁header內img src抓不到產生錯誤，整個移除掉防vice掛glitch上去
     if( $('.category-universe').length == 1 || $('.category-gamers').length == 1 ){
         $('.dhrk-pageheader').remove();
-    } 
+
+    }
+    $('.bts-posts').each(function(){
+        if($(this).find('.external-link')){
+            var exLink = $(this).find('.external-link').attr('href');
+            $(this).find('.btn-more').attr('href', exLink).attr('target','_blank');
+            $(this).find('.title a').attr('href', exLink).attr('target','_blank');
+            $(this).find('.featured-img').attr('href', exLink).attr('target','_blank');
+        }
+    });
 });
