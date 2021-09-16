@@ -1,5 +1,5 @@
 jQuery(document).ready(function(){
-	if(true){
+	if($('body.home').length){
 
 		let w = window.innerWidth;
 		let video = document.querySelector('#ctk-video');
@@ -208,7 +208,7 @@ jQuery(document).ready(function(){
 		// 			inlineArrangement: "equidistant",
 		// 			scale: 0.023,
 		// 			type: "inline",
-		// 			url: "/wp-content/themes/vice-dhrk/img/rog-logo.svg"
+		// 			url: "../wp-content/themes/vice-dhrk/img/rog-logo.svg"
 		// 		},
 		// 	},
 		// 	function (container) {

@@ -54,7 +54,7 @@ jQuery(document).ready(function(){
 	// 	if( transition.offsetTop <= $('#canvas').scrollTop()){
 	// 		opening.style.position = 'relative';
 	// 		opening.style.top = window.innerHeight+ 'px';
-	// 	}else{
+	// 	}else{	
     //         opening.style.position = 'sticky';
 	// 		opening.style.top = '0px';
     //     }

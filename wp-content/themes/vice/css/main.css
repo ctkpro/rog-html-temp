@@ -294,8 +294,8 @@ td, th {
 }
 @font-face {
   font-family: "Glyphicons Halflings";
-  src: url("/wp-content/themes/vice/fonts/glyphicons-halflings-regular.eot");
-  src: url("/wp-content/themes/vice/fonts/glyphicons-halflings-regular.eot#iefix") format("embedded-opentype"), url("/wp-content/themes/vice/fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("/wp-content/themes/vice/fonts/glyphicons-halflings-regular.woff") format("woff"), url("/wp-content/themes/vice/fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("/wp-content/themes/vice/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
+  src: url("../wp-content/themes/vice/fonts/glyphicons-halflings-regular.eot");
+  src: url("../wp-content/themes/vice/fonts/glyphicons-halflings-regular.eot#iefix") format("embedded-opentype"), url("../wp-content/themes/vice/fonts/glyphicons-halflings-regular.woff2") format("woff2"), url("../wp-content/themes/vice/fonts/glyphicons-halflings-regular.woff") format("woff"), url("../wp-content/themes/vice/fonts/glyphicons-halflings-regular.ttf") format("truetype"), url("../wp-content/themes/vice/fonts/glyphicons-halflings-regular.svg#glyphicons_halflingsregular") format("svg");
 }
 .glyphicon {
   position: relative;
@@ -7045,8 +7045,8 @@ button.close {
 =================================================================*/
 @font-face {
   font-family: "qticons";
-  src: url("/wp-content/themes/vice/css/fonts/qticons.eot");
-  src: url("/wp-content/themes/vice/css/fonts/qticons.eot#iefix") format("embedded-opentype"), url("/wp-content/themes/vice/css/fonts/qticons.woff") format("woff"), url("/wp-content/themes/vice/css/fonts/qticons.ttf") format("truetype"), url("/wp-content/themes/vice/css/fonts/qticons.svg#qticons") format("svg");
+  src: url("../wp-content/themes/vice/css/fonts/qticons.eot");
+  src: url("../wp-content/themes/vice/css/fonts/qticons.eot#iefix") format("embedded-opentype"), url("../wp-content/themes/vice/css/fonts/qticons.woff") format("woff"), url("../wp-content/themes/vice/css/fonts/qticons.ttf") format("truetype"), url("../wp-content/themes/vice/css/fonts/qticons.svg#qticons") format("svg");
   font-weight: normal;
   font-style: normal;
 }
@@ -7736,7 +7736,7 @@ img {
 }
 
 .qw-overlaypattern .qw-bg, .qw-overlaypattern .fp-tableCell, .qw-overlaypattern .qw-fixedcontents-layer2, .qw-overlaypattern .qw-gbcolorlayer {
-  background-image: url("/wp-content/themes/vice/img/overlay.png");
+  background-image: url("../wp-content/themes/vice/img/overlay.png");
   background-repeat: repeat;
 }
 
@@ -9599,7 +9599,7 @@ pre, code {
 .qw-events_carousel_listitem .qw-dateblock {
   min-width: 50px;
   padding: 5px 0;
-  background-image: url("/wp-content/themes/vice/css/line.svg");
+  background-image: url("../wp-content/themes/vice/css/line.svg");
   background-repeat: no-repeat;
   background-position: center center;
   /* no-repeat scroll 0 0 / 100% 100%;*/
@@ -13113,7 +13113,7 @@ body#theBody.is_safari.is_mobile {
 
 /*Swipebox fix*/
 #swipebox-close, #swipebox-next, #swipebox-prev {
-  background-image: url("/wp-content/themes/vice/img/icons.png") !important;
+  background-image: url("../wp-content/themes/vice/img/icons.png") !important;
 }
 
 /* = WooCommerce css
