@@ -28,22 +28,24 @@ jQuery(document).ready(function(){
 		});
 	})
 
+
+	// 這邊處理opening 中心saga換字,放這不放openingjs是因為要用import
 	const brand_texts_set = [
-		['S','S','5','S','S'],
-		['S','S','5','S','S']
+		['S','S','S','S','S','S','S','S','S','5','S','S','S','S','S','S','S','S','S'],
+		['S','S','S','S','S','S','S','S','S','5','S','S','S','S','S','S','S','S','S']
 	]
 	let brand_splitflaps = document.querySelectorAll('.opening_center .split');
 	brand_splitflaps.forEach((ele,index) =>{
 
 		setTimeout(() => {
 			splitFlap(ele, brand_texts_set[index], {
-				'timeOut' : 1000,
-				'tickTimeOut' : 60,
+				'timeOut' : 160,
+				'tickTimeOut' : 50,
 				'nbJumpIterations' : 4,
 			});
-		}, 10000);
-
+		}, 8000);
 	})
+	// opening 中心saga換字結束
 
 
 	// 視差滾動
