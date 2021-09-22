@@ -29,16 +29,16 @@ jQuery(document).ready(function(){
 	})
 
 	const brand_texts_set = [
-		['S','5'],
-		['S','5']
+		['S','S','5','S','S'],
+		['S','S','5','S','S']
 	]
 	let brand_splitflaps = document.querySelectorAll('.opening_center .split');
 	brand_splitflaps.forEach((ele,index) =>{
 
 		setTimeout(() => {
 			splitFlap(ele, brand_texts_set[index], {
-				'timeOut' : 4000,
-				'tickTimeOut' : 80,
+				'timeOut' : 1000,
+				'tickTimeOut' : 60,
 				'nbJumpIterations' : 4,
 			});
 		}, 10000);

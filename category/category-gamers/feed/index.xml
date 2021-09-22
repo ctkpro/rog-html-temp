@@ -12,7 +12,7 @@
 	<atom:link href="/category/category-gamers/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>ROG Sage</description>
-	<lastBuildDate>Thu, 16 Sep 2021 03:34:35 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 17 Sep 2021 08:19:48 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -21,7 +21,7 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>..../wp-content/uploads/2021/08/cropped-截圖-2021-08-20-下午5.43.52-32x32.png</url>
+	<url>../wp-content/uploads/2021/09/cropped-rog_logo_4005-32x32.png</url>
 	<title>GAMERS - ROG Sage</title>
 	<link>/</link>
 	<width>32</width>
@@ -86,7 +86,10 @@
 				</div>
 				<div class="elementor-element elementor-element-12ae798 elementor-widget elementor-widget-text-editor" data-id="12ae798" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<ul><li>CYBERCYCLE “ARMAGEDÓN”</li><li>FOUR CYBERNETIC FIREARMS NAMED “CONQUER”, “WAR”, “FAMINE”, AND “DEATH”.</li></ul>						</div>
+								<ul>
+ 	<li>CYBERCYCLE “ARMAGEDÓN”</li>
+ 	<li>FOUR CYBERNETIC FIREARMS NAMED “CONQUESTR”, “WAR”, “FAMINE”, AND “DEATH” </li>
+</ul>						</div>
 				</div>
 					</div>
 		</div>
@@ -98,7 +101,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d2e6e45 single-gamers-img elementor-widget elementor-widget-image" data-id="d2e6e45" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1920" height="1110" src="..../wp-content/uploads/2021/09/Horsem4n_transparent2.png" class="attachment-full size-full" alt="" loading="lazy" srcset="..../wp-content/uploads/2021/09/Horsem4n_transparent2.png 1920w, ..../wp-content/uploads/2021/09/Horsem4n_transparent2-300x173.png 300w, ..../wp-content/uploads/2021/09/Horsem4n_transparent2-1024x592.png 1024w, ..../wp-content/uploads/2021/09/Horsem4n_transparent2-768x444.png 768w, ..../wp-content/uploads/2021/09/Horsem4n_transparent2-1536x888.png 1536w, ..../wp-content/uploads/2021/09/Horsem4n_transparent2-600x347.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
+															<img width="1920" height="1110" src="../wp-content/uploads/2021/09/Horsem4n_transparent2.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/09/Horsem4n_transparent2.png 1920w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-300x173.png 300w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-1024x592.png 1024w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-768x444.png 768w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-1536x888.png 1536w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-600x347.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -132,7 +135,7 @@
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5842182" data-id="5842182" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cdd808c elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="cdd808c" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=RAVmuZr69jI&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
+								<div class="elementor-element elementor-element-cdd808c elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="cdd808c" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=xBepMBdQTT8&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
 			<div class="elementor-video"></div>		</div>
@@ -171,67 +174,67 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
 <span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
+		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
+				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUER”, “WAR”, “FAMINE”, AND “DEATH”. HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUESTR”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
 <span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
+		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
+				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUER”, “WAR”, “FAMINE”, AND “DEATH”. HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUESTR”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
 <span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
+		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
+				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUER”, “WAR”, “FAMINE”, AND “DEATH”. HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUESTR”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="4">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
 <span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
+		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
+				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUER”, “WAR”, “FAMINE”, AND “DEATH”. HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUESTR”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="5">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
 <span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
+		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
+				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUER”, “WAR”, “FAMINE”, AND “DEATH”. HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUESTR”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -318,7 +321,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d2e6e45 single-gamers-img elementor-widget elementor-widget-image" data-id="d2e6e45" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1918" height="1262" src="..../wp-content/uploads/2021/08/SE7EN.png" class="attachment-full size-full" alt="" loading="lazy" srcset="..../wp-content/uploads/2021/08/SE7EN.png 1918w, ..../wp-content/uploads/2021/08/SE7EN-300x197.png 300w, ..../wp-content/uploads/2021/08/SE7EN-1024x674.png 1024w, ..../wp-content/uploads/2021/08/SE7EN-768x505.png 768w, ..../wp-content/uploads/2021/08/SE7EN-1536x1011.png 1536w, ..../wp-content/uploads/2021/08/SE7EN-600x395.png 600w" sizes="(max-width: 1918px) 100vw, 1918px" />															</div>
+															<img width="1918" height="1262" src="../wp-content/uploads/2021/08/SE7EN.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/SE7EN.png 1918w, ../wp-content/uploads/2021/08/SE7EN-300x197.png 300w, ../wp-content/uploads/2021/08/SE7EN-1024x674.png 1024w, ../wp-content/uploads/2021/08/SE7EN-768x505.png 768w, ../wp-content/uploads/2021/08/SE7EN-1536x1011.png 1536w, ../wp-content/uploads/2021/08/SE7EN-600x395.png 600w" sizes="(max-width: 1918px) 100vw, 1918px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -352,17 +355,11 @@
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5842182" data-id="5842182" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-3dac75b elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="3dac75b" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=XHOmBV4js_E&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
-				</div>
-				</div>
-				<div class="elementor-element elementor-element-5eeeff0 single-gamers-gallery elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="5eeeff0" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
+								<div class="elementor-element elementor-element-5eeeff0 single-gamers-gallery elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="5eeeff0" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1414-edc4c0d920d02920f653682abc679471" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1414-edc4c0d920d02920f653682abc679471" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1414-3b5bab67615c53b7dd5a148ffa89a951" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1414-3b5bab67615c53b7dd5a148ffa89a951" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
 					data-vicefx="glitch"
 					data-indexslide="1"
@@ -383,9 +380,9 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
 <span class="vice-separator vice-separator--number"><span>se7en_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/se7en_1024x576_1.jpg">
+		<a href="../wp-content/uploads/2021/09/se7en_1024x576_1.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/se7en_1024x576_1.jpg">
+				<img src="../wp-content/uploads/2021/09/se7en_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
@@ -395,10 +392,10 @@
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>se7en_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/se7en_1024x576_2.jpg">
+<span class="vice-separator vice-separator--number"><span>se7en_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+		<a href="../wp-content/uploads/2021/09/se7en_1024x576_3.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/se7en_1024x576_2.jpg">
+				<img src="../wp-content/uploads/2021/09/se7en_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
@@ -408,10 +405,10 @@
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>se7en_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/se7en_1024x576_3.jpg">
+<span class="vice-separator vice-separator--number"><span>se7en_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+		<a href="../wp-content/uploads/2021/09/se7en_1024x576_2.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/se7en_1024x576_3.jpg">
+				<img src="../wp-content/uploads/2021/09/se7en_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
@@ -422,9 +419,9 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
 <span class="vice-separator vice-separator--number"><span>se7en_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/se7en_1024x576_4.jpg">
+		<a href="../wp-content/uploads/2021/09/se7en_1024x576_4.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/se7en_1024x576_4.jpg">
+				<img src="../wp-content/uploads/2021/09/se7en_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
@@ -435,9 +432,9 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
 <span class="vice-separator vice-separator--number"><span>se7en_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/se7en_1024x576_5.jpg">
+		<a href="../wp-content/uploads/2021/09/se7en_1024x576_5.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/se7en_1024x576_5.jpg">
+				<img src="../wp-content/uploads/2021/09/se7en_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
@@ -532,7 +529,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d2e6e45 single-gamers-img elementor-widget elementor-widget-image" data-id="d2e6e45" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1200" height="1627" src="..../wp-content/uploads/2021/09/Akira.png" class="attachment-full size-full" alt="" loading="lazy" srcset="..../wp-content/uploads/2021/09/Akira.png 1200w, ..../wp-content/uploads/2021/09/Akira-221x300.png 221w, ..../wp-content/uploads/2021/09/Akira-755x1024.png 755w, ..../wp-content/uploads/2021/09/Akira-768x1041.png 768w, ..../wp-content/uploads/2021/09/Akira-1133x1536.png 1133w, ..../wp-content/uploads/2021/09/Akira-443x600.png 443w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
+															<img width="1200" height="1627" src="../wp-content/uploads/2021/09/Akira.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/09/Akira.png 1200w, ../wp-content/uploads/2021/09/Akira-221x300.png 221w, ../wp-content/uploads/2021/09/Akira-755x1024.png 755w, ../wp-content/uploads/2021/09/Akira-768x1041.png 768w, ../wp-content/uploads/2021/09/Akira-1133x1536.png 1133w, ../wp-content/uploads/2021/09/Akira-443x600.png 443w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -557,14 +554,8 @@
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-81ad8e7 elementor-section-stretched single-gamers-video  elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="81ad8e7" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5842182" data-id="5842182" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cdd808c elementor-aspect-ratio-169 elementor-widget elementor-widget-video" data-id="cdd808c" data-element_type="widget" data-settings="{&quot;youtube_url&quot;:&quot;https:\/\/www.youtube.com\/watch?v=RAVmuZr69jI&quot;,&quot;video_type&quot;:&quot;youtube&quot;,&quot;controls&quot;:&quot;yes&quot;,&quot;aspect_ratio&quot;:&quot;169&quot;}" data-widget_type="video.default">
-				<div class="elementor-widget-container">
-					<div class="elementor-wrapper elementor-fit-aspect-ratio elementor-open-inline">
-			<div class="elementor-video"></div>		</div>
-				</div>
-				</div>
-					</div>
+			<div class="elementor-widget-wrap">
+									</div>
 		</div>
 							</div>
 		</section>
@@ -575,8 +566,8 @@
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1583-11ece6a58fb95bcda7ae7fd0ec9f2a19" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1583-11ece6a58fb95bcda7ae7fd0ec9f2a19" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1583-1919a71a0ab12090e0633d65b8cf6697" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1583-1919a71a0ab12090e0633d65b8cf6697" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
 					data-vicefx="glitch"
 					data-indexslide="1"
@@ -592,27 +583,66 @@
 					data-nav="true"
 					data-dots="true" 
 					data-autoplay_timeout="0" 
-					data-amount="2">
+					data-amount="5">
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>ROG Zephyrus（title）</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/08/BV_4K_Notext_1144-1024x576.jpg">
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+		<a href="../wp-content/uploads/2021/09/akira_1024x576_1.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/08/BV_4K_Notext_1144-1024x576.jpg">
+				<img src="../wp-content/uploads/2021/09/akira_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>Defining Ultra-Slim Gaming（description）</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>cut_025</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/cut_025-1024x576.jpg">
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+		<a href="../wp-content/uploads/2021/09/akira_1024x576_2.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/cut_025-1024x576.jpg">
+				<img src="../wp-content/uploads/2021/09/akira_1024x576_2.jpg">
+			</div>
+		</a>
+	</div>
+	<!-- <span class="vice-separator"></span> -->
+<span class="vice-separator"></span>
+<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
+												<div class="vice-elementor-item vice-3d-element" data-index="3">
+							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
+	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+		<a href="../wp-content/uploads/2021/09/akira_1024x576_3.jpg">
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+				<img src="../wp-content/uploads/2021/09/akira_1024x576_3.jpg">
+			</div>
+		</a>
+	</div>
+	<!-- <span class="vice-separator"></span> -->
+<span class="vice-separator"></span>
+<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
+												<div class="vice-elementor-item vice-3d-element" data-index="4">
+							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
+	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+		<a href="../wp-content/uploads/2021/09/akira_1024x576_4.jpg">
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+				<img src="../wp-content/uploads/2021/09/akira_1024x576_4.jpg">
+			</div>
+		</a>
+	</div>
+	<!-- <span class="vice-separator"></span> -->
+<span class="vice-separator"></span>
+<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
+												<div class="vice-elementor-item vice-3d-element" data-index="5">
+							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
+	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+		<a href="../wp-content/uploads/2021/09/akira_1024x576_5.jpg">
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+				<img src="../wp-content/uploads/2021/09/akira_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
@@ -707,7 +737,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-11d8b90 single-gamers-img elementor-widget elementor-widget-image" data-id="11d8b90" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1535" height="994" src="..../wp-content/uploads/2021/08/AchT.png" class="attachment-full size-full" alt="" loading="lazy" srcset="..../wp-content/uploads/2021/08/AchT.png 1535w, ..../wp-content/uploads/2021/08/AchT-300x194.png 300w, ..../wp-content/uploads/2021/08/AchT-1024x663.png 1024w, ..../wp-content/uploads/2021/08/AchT-768x497.png 768w, ..../wp-content/uploads/2021/08/AchT-600x389.png 600w" sizes="(max-width: 1535px) 100vw, 1535px" />															</div>
+															<img width="1535" height="994" src="../wp-content/uploads/2021/08/AchT.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/AchT.png 1535w, ../wp-content/uploads/2021/08/AchT-300x194.png 300w, ../wp-content/uploads/2021/08/AchT-1024x663.png 1024w, ../wp-content/uploads/2021/08/AchT-768x497.png 768w, ../wp-content/uploads/2021/08/AchT-600x389.png 600w" sizes="(max-width: 1535px) 100vw, 1535px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -766,9 +796,9 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
 <span class="vice-separator vice-separator--number"><span>acht_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/acht_1024x576_1.jpg">
+		<a href="../wp-content/uploads/2021/09/acht_1024x576_1.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/acht_1024x576_1.jpg">
+				<img src="../wp-content/uploads/2021/09/acht_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
@@ -779,9 +809,9 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
 <span class="vice-separator vice-separator--number"><span>acht_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/acht_1024x576_2.jpg">
+		<a href="../wp-content/uploads/2021/09/acht_1024x576_2.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/acht_1024x576_2.jpg">
+				<img src="../wp-content/uploads/2021/09/acht_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
@@ -792,9 +822,9 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
 <span class="vice-separator vice-separator--number"><span>acht_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/acht_1024x576_3.jpg">
+		<a href="../wp-content/uploads/2021/09/acht_1024x576_3.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/acht_1024x576_3.jpg">
+				<img src="../wp-content/uploads/2021/09/acht_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
@@ -805,9 +835,9 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
 <span class="vice-separator vice-separator--number"><span>acht_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/acht_1024x576_4.jpg">
+		<a href="../wp-content/uploads/2021/09/acht_1024x576_4.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/acht_1024x576_4.jpg">
+				<img src="../wp-content/uploads/2021/09/acht_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
@@ -818,9 +848,9 @@
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
 <span class="vice-separator vice-separator--number"><span>acht_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/acht_1024x576_5.jpg">
+		<a href="../wp-content/uploads/2021/09/acht_1024x576_5.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/acht_1024x576_5.jpg">
+				<img src="../wp-content/uploads/2021/09/acht_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
@@ -915,7 +945,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d2e6e45 single-gamers-img elementor-widget elementor-widget-image" data-id="d2e6e45" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1200" height="1431" src="..../wp-content/uploads/2021/08/GO_hero_pose-1.png" class="attachment-1536x1536 size-1536x1536" alt="" loading="lazy" srcset="..../wp-content/uploads/2021/08/GO_hero_pose-1.png 1200w, ..../wp-content/uploads/2021/08/GO_hero_pose-1-252x300.png 252w, ..../wp-content/uploads/2021/08/GO_hero_pose-1-859x1024.png 859w, ..../wp-content/uploads/2021/08/GO_hero_pose-1-768x916.png 768w, ..../wp-content/uploads/2021/08/GO_hero_pose-1-503x600.png 503w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
+															<img width="1200" height="1431" src="../wp-content/uploads/2021/08/GO_hero_pose-1.png" class="attachment-1536x1536 size-1536x1536" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/GO_hero_pose-1.png 1200w, ../wp-content/uploads/2021/08/GO_hero_pose-1-252x300.png 252w, ../wp-content/uploads/2021/08/GO_hero_pose-1-859x1024.png 859w, ../wp-content/uploads/2021/08/GO_hero_pose-1-768x916.png 768w, ../wp-content/uploads/2021/08/GO_hero_pose-1-503x600.png 503w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -975,9 +1005,9 @@ The power lies on my side.”</h2>		</div>
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
 <span class="vice-separator vice-separator--number"><span>go_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/go_1024x576_1.jpg">
+		<a href="../wp-content/uploads/2021/09/go_1024x576_1.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/go_1024x576_1.jpg">
+				<img src="../wp-content/uploads/2021/09/go_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
@@ -988,9 +1018,9 @@ The power lies on my side.”</h2>		</div>
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
 <span class="vice-separator vice-separator--number"><span>go_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/go_1024x576_2.jpg">
+		<a href="../wp-content/uploads/2021/09/go_1024x576_2.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/go_1024x576_2.jpg">
+				<img src="../wp-content/uploads/2021/09/go_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
@@ -1001,9 +1031,9 @@ The power lies on my side.”</h2>		</div>
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
 <span class="vice-separator vice-separator--number"><span>go_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/go_1024x576_3.jpg">
+		<a href="../wp-content/uploads/2021/09/go_1024x576_3.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/go_1024x576_3.jpg">
+				<img src="../wp-content/uploads/2021/09/go_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
@@ -1098,7 +1128,7 @@ The power lies on my side.”</h2>		</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d2e6e45 single-gamers-img elementor-widget elementor-widget-image" data-id="d2e6e45" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img src="..../wp-content/uploads/elementor/thumbs/Wallpaper_02_Omni_v04-1ygiyus4y08yfnyrdvwivzzoj9ohux4fffs0xtovuwwg.png" title="Wallpaper_02_Omni_v04" alt="Wallpaper_02_Omni_v04" />															</div>
+															<img src="../wp-content/uploads/elementor/thumbs/Wallpaper_02_Omni_v04-1ygiyus4y08yfnyrdvwivzzoj9ohux4fffs0xtovuwwg.png" title="Wallpaper_02_Omni_v04" alt="Wallpaper_02_Omni_v04" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1165,9 +1195,9 @@ The power lies on my side.”</h2>		</div>
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
 <span class="vice-separator vice-separator--number"><span>omni_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/omni_1024x576_1.jpg">
+		<a href="../wp-content/uploads/2021/09/omni_1024x576_1.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/omni_1024x576_1.jpg">
+				<img src="../wp-content/uploads/2021/09/omni_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
@@ -1178,9 +1208,9 @@ The power lies on my side.”</h2>		</div>
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
 <span class="vice-separator vice-separator--number"><span>omni_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/omni_1024x576_2.jpg">
+		<a href="../wp-content/uploads/2021/09/omni_1024x576_2.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/omni_1024x576_2.jpg">
+				<img src="../wp-content/uploads/2021/09/omni_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
@@ -1191,9 +1221,9 @@ The power lies on my side.”</h2>		</div>
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
 <span class="vice-separator vice-separator--number"><span>omni_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/omni_1024x576_3.jpg">
+		<a href="../wp-content/uploads/2021/09/omni_1024x576_3.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/omni_1024x576_3.jpg">
+				<img src="../wp-content/uploads/2021/09/omni_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
@@ -1204,9 +1234,9 @@ The power lies on my side.”</h2>		</div>
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
 <span class="vice-separator vice-separator--number"><span>omni_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/omni_1024x576_4.jpg">
+		<a href="../wp-content/uploads/2021/09/omni_1024x576_4.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/omni_1024x576_4.jpg">
+				<img src="../wp-content/uploads/2021/09/omni_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
@@ -1232,7 +1262,6 @@ The power lies on my side.”</h2>		</div>
 		<item>
 		<title>PKD</title>
 		<link>/pkd/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=pkd</link>
-					<comments>/pkd/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Tue, 10 Aug 2021 11:32:01 +0000</pubDate>
@@ -1265,7 +1294,7 @@ The power lies on my side.”</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-d1a642a elementor-widget elementor-widget-text-editor" data-id="d1a642a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>VICTOR OCAÑAS</p>						</div>
+								<p>PATRICK K. DRAKULA</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1289,7 +1318,7 @@ The power lies on my side.”</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-12ae798 elementor-widget elementor-widget-text-editor" data-id="12ae798" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<ul><li>Collective Micro-Bots System &#8220;ŢEPEŞ&#8221;</li></ul>						</div>
+								<p>COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221;</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -1301,7 +1330,7 @@ The power lies on my side.”</h2>		</div>
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d2e6e45 single-gamers-img elementor-widget elementor-widget-image" data-id="d2e6e45" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="790" height="1714" src="..../wp-content/uploads/2021/08/pkd.png" class="attachment-full size-full" alt="" loading="lazy" srcset="..../wp-content/uploads/2021/08/pkd.png 790w, ..../wp-content/uploads/2021/08/pkd-138x300.png 138w, ..../wp-content/uploads/2021/08/pkd-472x1024.png 472w, ..../wp-content/uploads/2021/08/pkd-768x1666.png 768w, ..../wp-content/uploads/2021/08/pkd-708x1536.png 708w, ..../wp-content/uploads/2021/08/pkd-277x600.png 277w" sizes="(max-width: 790px) 100vw, 790px" />															</div>
+															<img width="790" height="1714" src="../wp-content/uploads/2021/08/pkd.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/pkd.png 790w, ../wp-content/uploads/2021/08/pkd-138x300.png 138w, ../wp-content/uploads/2021/08/pkd-472x1024.png 472w, ../wp-content/uploads/2021/08/pkd-768x1666.png 768w, ../wp-content/uploads/2021/08/pkd-708x1536.png 708w, ../wp-content/uploads/2021/08/pkd-277x600.png 277w" sizes="(max-width: 790px) 100vw, 790px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -1368,41 +1397,41 @@ The power lies on my side.”</h2>		</div>
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
 <span class="vice-separator vice-separator--number"><span>pkd_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/pkd_1024x576_1.jpg">
+		<a href="../wp-content/uploads/2021/09/pkd_1024x576_1.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/pkd_1024x576_1.jpg">
+				<img src="../wp-content/uploads/2021/09/pkd_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.007_ REAL NAME VICTOR OCAÑAS AGE 27 ABILITY &amp; WEAPONS Collective Micro-Bots System &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted under [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
 <span class="vice-separator vice-separator--number"><span>pkd_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/pkd_1024x576_2.jpg">
+		<a href="../wp-content/uploads/2021/09/pkd_1024x576_2.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/pkd_1024x576_2.jpg">
+				<img src="../wp-content/uploads/2021/09/pkd_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.007_ REAL NAME VICTOR OCAÑAS AGE 27 ABILITY &amp; WEAPONS Collective Micro-Bots System &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted under [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
 <span class="vice-separator vice-separator--number"><span>pkd_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
-		<a href="..../wp-content/uploads/2021/09/pkd_1024x576_3.jpg">
+		<a href="../wp-content/uploads/2021/09/pkd_1024x576_3.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
-				<img src="..../wp-content/uploads/2021/09/pkd_1024x576_3.jpg">
+				<img src="../wp-content/uploads/2021/09/pkd_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.007_ REAL NAME VICTOR OCAÑAS AGE 27 ABILITY &amp; WEAPONS Collective Micro-Bots System &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted under [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -1414,8 +1443,6 @@ The power lies on my side.”</h2>		</div>
 						</div>
 					</div><p>The post <a href="/pkd/">PKD</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/pkd/feed/</wfw:commentRss>
-			<slash:comments>0</slash:comments>
 		
 		
 			</item>

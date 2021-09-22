@@ -67,21 +67,21 @@ jQuery(document).ready(function(){
 				}
 			}
 		}
-		setTimeout(() => { progress();}, 1500);
+		setTimeout(() => { progress();}, 1200);
 
 		// progress bar跑完
 		setTimeout(() => {
 			logo.style.display = 'none';
 			progress_bar.style.display = 'none';
 			mini_bar.style.display = 'none';
-		}, 6000);
+		}, 5000);
 
 		// 影片播放
 		setTimeout(() => {
 			video.classList.add('fade-in');
 			video.play();
 			// video_bg.classList.add('fade-in');
-		}, 6200);
+		}, 5600);
 		
 		setTimeout(() => {
 			opening_center.classList.add('fade-in');
@@ -93,7 +93,7 @@ jQuery(document).ready(function(){
 			if( w < 768){
 				runScriptsMain(dataMain, 0);
 			}
-		}, 9000);
+		}, 8000);
 		
 		setTimeout(() => {
 			// title.classList.add('fade-in');
@@ -101,7 +101,7 @@ jQuery(document).ready(function(){
 			// describe.classList.add('fade-in');
 			// describe_glitch.classList.add('fade-in');
 			opening_bl.classList.add('fade-in','breathing');
-		}, 12000);
+		}, 11000);
 		
 		
 
