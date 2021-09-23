@@ -12,7 +12,7 @@
 	<atom:link href="/artistgenre/brand-video/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>ROG Sage</description>
-	<lastBuildDate>Fri, 17 Sep 2021 02:42:50 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Sep 2021 15:22:51 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>RE:ASSEMBLE</title>
+		<link>/artist/reassemble/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reassemble</link>
+		
+		<dc:creator><![CDATA[Alfred]]></dc:creator>
+		<pubDate>Tue, 21 Sep 2021 14:50:15 +0000</pubDate>
+				<guid isPermaLink="false">/?post_type=artist&#038;p=1384</guid>
+
+					<description><![CDATA[<p>A Sweeping destruction is imminent. Retreating will lead to an end that is even worse than death. The heroes stand out under FATE&#8217;s guidance. &#124; ROG</p>
+<p>The post <a href="/artist/reassemble/">RE:ASSEMBLE</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
+										<content:encoded><![CDATA[<p>A Sweeping destruction is imminent.<br />
+Retreating will lead to an end that is even worse than death.<br />
+The heroes stand out under FATE&#8217;s guidance. | ROG</p><p>The post <a href="/artist/reassemble/">RE:ASSEMBLE</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></content:encoded>
+					
+		
+		
+			</item>
+		<item>
 		<title>RE:IGNITE</title>
 		<link>/artist/reignite/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=reignite</link>
 		

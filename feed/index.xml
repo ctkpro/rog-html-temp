@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>ROG Sage</description>
-	<lastBuildDate>Wed, 22 Sep 2021 04:08:53 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Sep 2021 14:43:36 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -107,11 +107,23 @@
 <p>The post <a href="/horsem4n/">Horsem4n</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1315" class="elementor elementor-1315" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60040ad" data-id="60040ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7fbf35 file-title elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-c7fbf35 elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FILE No.001_</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7fe4e9b elementor-section-full_width elementor-section-stretched file-title elementor-section-height-default elementor-section-height-default" data-id="7fe4e9b" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b0d809c" data-id="b0d809c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f2db787 elementor-widget elementor-widget-heading" data-id="f2db787" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">FILE No.001_</h2>		</div>
 				</div>
@@ -216,10 +228,10 @@
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1315-7b26fa344985bce67025d9a42cc9f5df" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1315-7b26fa344985bce67025d9a42cc9f5df" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1315-519e4c7f023f7a82dbb6f0775af557ee" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1315-519e4c7f023f7a82dbb6f0775af557ee" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
-					data-vicefx="glitch"
+					data-vicefx="default"
 					data-indexslide="1"
 					data-items="1"
 					data-items_tablet="1"
@@ -237,68 +249,68 @@
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="4">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="5">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>

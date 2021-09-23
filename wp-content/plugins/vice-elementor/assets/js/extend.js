@@ -323,11 +323,11 @@
 								indexContainer.animate({
 									'opacity': 0,
 									'margin-top': '-20px'
-								}, 300, function(){
+								}, 100, function(){
 									indexContainer.html( cur ).css({'margin-top': '20px'}).animate({
 										'opacity': 1,
 										'margin-top': '0px'
-									}, 300);
+									}, 100);
 								});
 								if(T.data('vicefx') === 'glitch'){
 									currentItem = T.find('.active');

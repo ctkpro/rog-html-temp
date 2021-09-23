@@ -12,7 +12,7 @@
 	<atom:link href="/category/category-gamers/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>ROG Sage</description>
-	<lastBuildDate>Wed, 22 Sep 2021 03:03:40 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 22 Sep 2021 14:46:07 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -40,11 +40,23 @@
 <p>The post <a href="/horsem4n/">Horsem4n</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1315" class="elementor elementor-1315" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60040ad" data-id="60040ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7fbf35 file-title elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-c7fbf35 elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FILE No.001_</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-7fe4e9b elementor-section-full_width elementor-section-stretched file-title elementor-section-height-default elementor-section-height-default" data-id="7fe4e9b" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b0d809c" data-id="b0d809c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f2db787 elementor-widget elementor-widget-heading" data-id="f2db787" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">FILE No.001_</h2>		</div>
 				</div>
@@ -149,10 +161,10 @@
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1315-7b26fa344985bce67025d9a42cc9f5df" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1315-7b26fa344985bce67025d9a42cc9f5df" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1315-519e4c7f023f7a82dbb6f0775af557ee" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1315-519e4c7f023f7a82dbb6f0775af557ee" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
-					data-vicefx="glitch"
+					data-vicefx="default"
 					data-indexslide="1"
 					data-items="1"
 					data-items_tablet="1"
@@ -170,68 +182,68 @@
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="4">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="5">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N “HAY MÁS TIEMPO QUE VIDA.” Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -260,11 +272,23 @@
 <p>The post <a href="/se7en/">SE7EN</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1414" class="elementor elementor-1414" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60040ad" data-id="60040ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7fbf35 file-title elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-c7fbf35 elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FILE No.002_</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-123eb9d elementor-section-full_width elementor-section-stretched file-title elementor-section-height-default elementor-section-height-default" data-id="123eb9d" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-ff542b0" data-id="ff542b0" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-0775b5d elementor-widget elementor-widget-heading" data-id="0775b5d" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">FILE No.002_</h2>		</div>
 				</div>
@@ -324,6 +348,18 @@
 		</div>
 							</div>
 		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b247f8c elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b247f8c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-cacbcb9" data-id="cacbcb9" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-f7fdc31 single-gamers-img2 elementor-widget elementor-widget-image" data-id="f7fdc31" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+															<img width="964" height="1262" src="../wp-content/uploads/2021/08/dasdasd.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/dasdasd.png 964w, ../wp-content/uploads/2021/08/dasdasd-229x300.png 229w, ../wp-content/uploads/2021/08/dasdasd-782x1024.png 782w, ../wp-content/uploads/2021/08/dasdasd-768x1005.png 768w, ../wp-content/uploads/2021/08/dasdasd-458x600.png 458w" sizes="(max-width: 964px) 100vw, 964px" />															</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
 				<section class="elementor-section elementor-top-section elementor-element elementor-element-e1ab510 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="e1ab510" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-6a92447" data-id="6a92447" data-element_type="column">
@@ -355,10 +391,10 @@
 								<div class="elementor-element elementor-element-5eeeff0 single-gamers-gallery elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="5eeeff0" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1414-3b5bab67615c53b7dd5a148ffa89a951" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1414-3b5bab67615c53b7dd5a148ffa89a951" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1414-7afb19b84a33c723d84a7aedaa2e8f70" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1414-7afb19b84a33c723d84a7aedaa2e8f70" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
-					data-vicefx="glitch"
+					data-vicefx="default"
 					data-indexslide="1"
 					data-items="1"
 					data-items_tablet="1"
@@ -376,68 +412,68 @@
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>se7en_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>se7en_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/se7en_1024x576_1.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/se7en_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of her body. [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.002_ FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>se7en_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>se7en_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/se7en_1024x576_3.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/se7en_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of her body. [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.002_ FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>se7en_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>se7en_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/se7en_1024x576_2.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/se7en_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of her body. [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.002_ FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="4">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
-<span class="vice-separator vice-separator--number"><span>se7en_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>se7en_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/se7en_1024x576_4.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/se7en_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of her body. [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.002_ FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="5">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
-<span class="vice-separator vice-separator--number"><span>se7en_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>se7en_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/se7en_1024x576_5.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/se7en_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of her body. [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.002_ FILE No.002_ REAL NAME ZAYINE STEINBERGER AGE 21 ABILITY &amp; WEAPONS FULL-BODY AUGMENTEDCYBORG KUNOICHI CYBER CHAIN WHIP DAMASCUS STEEL KNIFE SE7EN “I FEEL MY FATE IN WHAT I CANNOT FEAR.” SE7EN’s real name is Zayina Steinberger. Due to a severe accident during her childhood, Zayina lost most of [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -468,11 +504,23 @@
 <p>The post <a href="/akira/">AKIRA</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1583" class="elementor elementor-1583" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60040ad" data-id="60040ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7fbf35 file-title elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-c7fbf35 elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FILE No.003_</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4242bda elementor-section-full_width elementor-section-stretched file-title elementor-section-height-default elementor-section-height-default" data-id="4242bda" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-c6d4fff" data-id="c6d4fff" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-67f993c elementor-widget elementor-widget-heading" data-id="67f993c" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">FILE No.003_</h2>		</div>
 				</div>
@@ -563,10 +611,10 @@
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1583-1919a71a0ab12090e0633d65b8cf6697" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1583-1919a71a0ab12090e0633d65b8cf6697" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1583-f376d1339a2f74ce2a8c99993b9b397d" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1583-f376d1339a2f74ce2a8c99993b9b397d" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
-					data-vicefx="glitch"
+					data-vicefx="default"
 					data-indexslide="1"
 					data-items="1"
 					data-items_tablet="1"
@@ -584,68 +632,68 @@
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>akira_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/akira_1024x576_1.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/akira_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.003_ FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>akira_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/akira_1024x576_2.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/akira_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.003_ FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>akira_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/akira_1024x576_3.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/akira_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.003_ FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="4">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
-<span class="vice-separator vice-separator--number"><span>akira_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/akira_1024x576_4.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/akira_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.003_ FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="5">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
-<span class="vice-separator vice-separator--number"><span>akira_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>akira_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/akira_1024x576_5.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/akira_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, AKIRA remained [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.003_ FILE No.003_ REAL NAME MIYAMOTO AKIRA AGE 45 ABILITY &amp; WEAPONS CYBER-BUSHIDO UCHIGATANA “PRANCING DRAGON” WAKIZASHI “FLYING PHOENIX” AKIRA “THE RONIN JUST CAN’T LEAVE THE SWORD AFTER ALL.” From a prestigious samurai family in Japan, Miyamoto Akira received exceptional training in bushido and taijutsu. Influenced by traditional culture, [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -676,11 +724,23 @@
 <p>The post <a href="/acht/">AchT</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1593" class="elementor elementor-1593" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60040ad" data-id="60040ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7fbf35 file-title elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-c7fbf35 elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FILE No.004_</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-8a24a00 elementor-section-full_width elementor-section-stretched file-title elementor-section-height-default elementor-section-height-default" data-id="8a24a00" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-abda987" data-id="abda987" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-ffccf1b elementor-widget elementor-widget-heading" data-id="ffccf1b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">FILE No.004_</h2>		</div>
 				</div>
@@ -771,10 +831,10 @@
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1593-f212c3098d9e082a557fe23055a213c2" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1593-f212c3098d9e082a557fe23055a213c2" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1593-171c4d0eaec4c32d236767a0ec25c8c3" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1593-171c4d0eaec4c32d236767a0ec25c8c3" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
-					data-vicefx="glitch"
+					data-vicefx="default"
 					data-indexslide="1"
 					data-items="1"
 					data-items_tablet="1"
@@ -792,68 +852,68 @@
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>acht_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>acht_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/acht_1024x576_1.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/acht_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden in the [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.004_ FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>acht_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>acht_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/acht_1024x576_2.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/acht_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden in the [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.004_ FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>acht_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>acht_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/acht_1024x576_3.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/acht_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden in the [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.004_ FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="4">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
-<span class="vice-separator vice-separator--number"><span>acht_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>acht_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/acht_1024x576_4.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/acht_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden in the [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.004_ FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="5">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
-<span class="vice-separator vice-separator--number"><span>acht_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>acht_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/acht_1024x576_5.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/acht_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden in the [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.004_ FILE No.004_ REAL NAME PLEASANCE CARROLL AGE 16 ABILITY &amp; WEAPONS INSTINCTIVE HACKING AchT “AT ANY REACTION RATE, THERE’S NO HARM IN TRYING” Pleasance Carroll was raised in secret by her scientist parents, Lutwidge and Charlene. Both served in a secret society in an isolated, ancient castle hidden [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -884,11 +944,11 @@
 <p>The post <a href="/go/">GO</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1605" class="elementor elementor-1605" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60040ad" data-id="60040ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7fbf35 file-title elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-c7fbf35 elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">FILE No.005_</h2>		</div>
 				</div>
@@ -896,7 +956,19 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-0050811 single-gamers-info elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="0050811" data-element_type="section">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c1807e5 elementor-section-full_width elementor-section-stretched file-title elementor-section-height-default elementor-section-height-default" data-id="c1807e5" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-825ff10" data-id="825ff10" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-89331f9 elementor-widget elementor-widget-heading" data-id="89331f9" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FILE No.005_</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-0050811 single-gamers-info elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="0050811" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-33 elementor-top-column elementor-element elementor-element-88e039c real-name" data-id="88e039c" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -936,7 +1008,7 @@
 		</div>
 							</div>
 		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-c22c0ac elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="c22c0ac" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-c22c0ac elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="c22c0ac" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-c71aa78" data-id="c71aa78" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
@@ -980,10 +1052,10 @@ The power lies on my side.”</h2>		</div>
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1605-814fb1e486cf095700a4211ccbac9eaa" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1605-814fb1e486cf095700a4211ccbac9eaa" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1605-98d207f2fc96b239a4d989b13481877d" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1605-98d207f2fc96b239a4d989b13481877d" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
-					data-vicefx="glitch"
+					data-vicefx="default"
 					data-indexslide="1"
 					data-items="1"
 					data-items_tablet="1"
@@ -1001,42 +1073,42 @@ The power lies on my side.”</h2>		</div>
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>go_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>go_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/go_1024x576_1.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/go_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.005_ REAL NAME TEOTI ÓRONGONUI AGE 40 ABILITY &amp; WEAPONS CYBERNETICALLY ENHANCED COMBAT ARMOR “CYCLOPS GO “No one will ever take me down. The power lies on my side.” Having apprenticed under Kitō Takayuki, the grandmaster for cybernetics, GO became a sworn friend to AKIRA for life. Born with [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.005_ FILE No.005_ REAL NAME TEOTI ÓRONGONUI AGE 40 ABILITY &amp; WEAPONS CYBERNETICALLY ENHANCED COMBAT ARMOR “CYCLOPS GO “No one will ever take me down. The power lies on my side.” Having apprenticed under Kitō Takayuki, the grandmaster for cybernetics, GO became a sworn friend to AKIRA for life. [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>go_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>go_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/go_1024x576_2.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/go_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.005_ REAL NAME TEOTI ÓRONGONUI AGE 40 ABILITY &amp; WEAPONS CYBERNETICALLY ENHANCED COMBAT ARMOR “CYCLOPS GO “No one will ever take me down. The power lies on my side.” Having apprenticed under Kitō Takayuki, the grandmaster for cybernetics, GO became a sworn friend to AKIRA for life. Born with [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.005_ FILE No.005_ REAL NAME TEOTI ÓRONGONUI AGE 40 ABILITY &amp; WEAPONS CYBERNETICALLY ENHANCED COMBAT ARMOR “CYCLOPS GO “No one will ever take me down. The power lies on my side.” Having apprenticed under Kitō Takayuki, the grandmaster for cybernetics, GO became a sworn friend to AKIRA for life. [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>go_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>go_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/go_1024x576_3.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/go_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.005_ REAL NAME TEOTI ÓRONGONUI AGE 40 ABILITY &amp; WEAPONS CYBERNETICALLY ENHANCED COMBAT ARMOR “CYCLOPS GO “No one will ever take me down. The power lies on my side.” Having apprenticed under Kitō Takayuki, the grandmaster for cybernetics, GO became a sworn friend to AKIRA for life. Born with [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.005_ FILE No.005_ REAL NAME TEOTI ÓRONGONUI AGE 40 ABILITY &amp; WEAPONS CYBERNETICALLY ENHANCED COMBAT ARMOR “CYCLOPS GO “No one will ever take me down. The power lies on my side.” Having apprenticed under Kitō Takayuki, the grandmaster for cybernetics, GO became a sworn friend to AKIRA for life. [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -1067,11 +1139,23 @@ The power lies on my side.”</h2>		</div>
 <p>The post <a href="/omni/">OMNI</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1623" class="elementor elementor-1623" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60040ad" data-id="60040ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7fbf35 file-title elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-c7fbf35 elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FILE No.006_</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-76d3d17 elementor-section-full_width elementor-section-stretched file-title elementor-section-height-default elementor-section-height-default" data-id="76d3d17" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-83e3759" data-id="83e3759" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-06b565e elementor-widget elementor-widget-heading" data-id="06b565e" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">FILE No.006_</h2>		</div>
 				</div>
@@ -1170,10 +1254,10 @@ The power lies on my side.”</h2>		</div>
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1623-38f87fb35e9a977da472a321bebb4110" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1623-38f87fb35e9a977da472a321bebb4110" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1623-c40182e27c0e06b8563d64459dc566fa" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1623-c40182e27c0e06b8563d64459dc566fa" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
-					data-vicefx="glitch"
+					data-vicefx="default"
 					data-indexslide="1"
 					data-items="1"
 					data-items_tablet="1"
@@ -1191,55 +1275,55 @@ The power lies on my side.”</h2>		</div>
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>omni_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>omni_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/omni_1024x576_1.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/omni_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.006_ REAL NAME OMNI AGE N/A ABILITY &amp; WEAPONS ANY CYBER-WEAPON OMNI “I been sayin&#8217; that **** for years. And if you ever heard it, it meant your ***.” OMNI is a Multiple Operational Utility Strategic Enforcer, or M.O.U.S.E — an android with tactical assistance abilities. Functioning as an [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.006_ FILE No.006_ REAL NAME OMNI AGE N/A ABILITY &amp; WEAPONS ANY CYBER-WEAPON OMNI “I been sayin&#8217; that **** for years. And if you ever heard it, it meant your ***.” OMNI is a Multiple Operational Utility Strategic Enforcer, or M.O.U.S.E — an android with tactical assistance abilities. Functioning [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>omni_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>omni_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/omni_1024x576_2.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/omni_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.006_ REAL NAME OMNI AGE N/A ABILITY &amp; WEAPONS ANY CYBER-WEAPON OMNI “I been sayin&#8217; that **** for years. And if you ever heard it, it meant your ***.” OMNI is a Multiple Operational Utility Strategic Enforcer, or M.O.U.S.E — an android with tactical assistance abilities. Functioning as an [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.006_ FILE No.006_ REAL NAME OMNI AGE N/A ABILITY &amp; WEAPONS ANY CYBER-WEAPON OMNI “I been sayin&#8217; that **** for years. And if you ever heard it, it meant your ***.” OMNI is a Multiple Operational Utility Strategic Enforcer, or M.O.U.S.E — an android with tactical assistance abilities. Functioning [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>omni_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>omni_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/omni_1024x576_3.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/omni_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.006_ REAL NAME OMNI AGE N/A ABILITY &amp; WEAPONS ANY CYBER-WEAPON OMNI “I been sayin&#8217; that **** for years. And if you ever heard it, it meant your ***.” OMNI is a Multiple Operational Utility Strategic Enforcer, or M.O.U.S.E — an android with tactical assistance abilities. Functioning as an [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.006_ FILE No.006_ REAL NAME OMNI AGE N/A ABILITY &amp; WEAPONS ANY CYBER-WEAPON OMNI “I been sayin&#8217; that **** for years. And if you ever heard it, it meant your ***.” OMNI is a Multiple Operational Utility Strategic Enforcer, or M.O.U.S.E — an android with tactical assistance abilities. Functioning [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="4">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
-<span class="vice-separator vice-separator--number"><span>omni_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>omni_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/omni_1024x576_4.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/omni_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.006_ REAL NAME OMNI AGE N/A ABILITY &amp; WEAPONS ANY CYBER-WEAPON OMNI “I been sayin&#8217; that **** for years. And if you ever heard it, it meant your ***.” OMNI is a Multiple Operational Utility Strategic Enforcer, or M.O.U.S.E — an android with tactical assistance abilities. Functioning as an [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.006_ FILE No.006_ REAL NAME OMNI AGE N/A ABILITY &amp; WEAPONS ANY CYBER-WEAPON OMNI “I been sayin&#8217; that **** for years. And if you ever heard it, it meant your ***.” OMNI is a Multiple Operational Utility Strategic Enforcer, or M.O.U.S.E — an android with tactical assistance abilities. Functioning [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -1269,11 +1353,23 @@ The power lies on my side.”</h2>		</div>
 <p>The post <a href="/pkd/">PKD</a> first appeared on <a href="/">ROG Sage</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1638" class="elementor elementor-1638" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
 					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-60040ad" data-id="60040ad" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-c7fbf35 file-title elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+								<div class="elementor-element elementor-element-c7fbf35 elementor-widget elementor-widget-heading" data-id="c7fbf35" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<h2 class="elementor-heading-title elementor-size-default">FILE No.007_</h2>		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-93ed4de elementor-section-full_width elementor-section-stretched file-title elementor-section-height-default elementor-section-height-default" data-id="93ed4de" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-b1ca886" data-id="b1ca886" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-c1192bc elementor-widget elementor-widget-heading" data-id="c1192bc" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
 			<h2 class="elementor-heading-title elementor-size-default">FILE No.007_</h2>		</div>
 				</div>
@@ -1372,10 +1468,10 @@ The power lies on my side.”</h2>		</div>
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1638-d861b23ef2a624ed948738a38b7a555b" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1638-d861b23ef2a624ed948738a38b7a555b" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-1638-50f382fbca598d0628b1d74aa451da02" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-1638-50f382fbca598d0628b1d74aa451da02" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
-					data-vicefx="glitch"
+					data-vicefx="default"
 					data-indexslide="1"
 					data-items="1"
 					data-items_tablet="1"
@@ -1393,42 +1489,42 @@ The power lies on my side.”</h2>		</div>
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>pkd_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>pkd_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/pkd_1024x576_1.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/pkd_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.007_ FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>pkd_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>pkd_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/pkd_1024x576_2.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/pkd_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.007_ FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>pkd_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail vice-grains">
+<span class="vice-separator vice-separator--number"><span>pkd_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
 		<a href="../wp-content/uploads/2021/09/pkd_1024x576_3.jpg">
-			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--glitch" data-vice-imgfx="glitch" >
+			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
 				<img src="../wp-content/uploads/2021/09/pkd_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed and twisted [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>FILE No.007_ FILE No.007_ REAL NAME PATRICK K. DRAKULA AGE 27 ABILITY &amp; WEAPONS COLLECTIVE MICRO-BOTS SYSTEM &#8220;ŢEPEŞ&#8221; PKD “CHECKMATE!” Once upon a time, hidden away in Slovenia, Patrik K. Drakula was raised in the Steel Cradle of Gigacorp Zdravljica. Even with a morbidly handsome face, Patrik&#8217;s feelings are suppressed [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
