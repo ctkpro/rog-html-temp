@@ -14,7 +14,7 @@ jQuery(document).ready(function(){
 		// let describe_glitch = document.querySelector('#opening p.glitch');
 
 		let opening_center = document.querySelector('.opening_center');
-		let opening_lc = document.querySelector('#opening_lc');
+		// let opening_lc = document.querySelector('#opening_lc');
 		let opening_bl = document.querySelector('#opening_bl');
 		let opening_206 = document.querySelector('#opening_206');		
 		
@@ -83,7 +83,7 @@ jQuery(document).ready(function(){
 		
 		setTimeout(() => {
 			opening_center.classList.add('fade-in');
-			opening_lc.classList.add('fade-in');
+			// opening_lc.classList.add('fade-in');
 			opening_206.classList.add('fade-in');
 			if( w > 768 ){
 				runScripts(data, 0);
