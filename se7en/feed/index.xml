@@ -10,12 +10,12 @@
 	Comments on: SE7EN	</title>
 	<atom:link href="/se7en/feed/" rel="self" type="application/rss+xml" />
 	<link>/se7en/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=se7en</link>
-	<description>ROG Sage</description>
+	<description>ROG SAGA</description>
 	<lastBuildDate>Fri, 24 Sep 2021 06:37:03 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 </channel>
 </rss>
