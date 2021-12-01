@@ -11,11 +11,11 @@
 	<atom:link href="/acht/feed/" rel="self" type="application/rss+xml" />
 	<link>/acht/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=acht</link>
 	<description>ROG SAGA</description>
-	<lastBuildDate>Wed, 22 Sep 2021 14:45:03 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 27 Sep 2021 08:00:36 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 </channel>
 </rss>

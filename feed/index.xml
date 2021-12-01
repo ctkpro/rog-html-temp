@@ -12,13 +12,13 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link>/</link>
 	<description>ROG SAGA</description>
-	<lastBuildDate>Fri, 24 Sep 2021 09:22:05 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 01 Dec 2021 02:16:24 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.2</generator>
 
 <image>
 	<url>../wp-content/uploads/2021/09/cropped-rog_logo_4005-32x32.png</url>
@@ -530,8 +530,8 @@
 			</item>
 		<item>
 		<title>GOEMON CITY</title>
-		<link>/goeman-city/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=goeman-city</link>
-					<comments>/goeman-city/#respond</comments>
+		<link>/goemon-city/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=goemon-city</link>
+					<comments>/goemon-city/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Fri, 20 Aug 2021 07:43:28 +0000</pubDate>
@@ -539,7 +539,7 @@
 		<guid isPermaLink="false">/?p=1328</guid>
 
 					<description><![CDATA[<p>GOEMON CITY_ GOEMON CITY Goemon City is underground, roughly located near the ruins of Hakone, a mountainous town in Kanagawa, Japan. During G.A.M.E.R.s’ War, the Japanese government and organized crime syndicates reached an agreement in secret to hollow out a massive cavity deep in the mountain. The dome of the [...]</p>
-<p>The post <a href="/goeman-city/">GOEMON CITY</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
+<p>The post <a href="/goemon-city/">GOEMON CITY</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
 										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1328" class="elementor elementor-1328" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-e85967f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e85967f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
@@ -588,9 +588,9 @@
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/goeman-city/">GOEMON CITY</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/goemon-city/">GOEMON CITY</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/goeman-city/feed/</wfw:commentRss>
+					<wfw:commentRss>/goemon-city/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
