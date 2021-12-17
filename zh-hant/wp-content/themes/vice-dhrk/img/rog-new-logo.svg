@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="210" height="120" version="1.1" viewBox="0 0 210 120" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <defs>
+  <clipPath id="clipPath150">
+   <path d="m0 2.593h1937v1094.4h-1937z"/>
+  </clipPath>
+ </defs>
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g transform="matrix(.35278 0 0 -.35278 -250.95 312.64)" fill='#f51928' stroke='#f51928'>
+  <g transform="translate(-233.5 150.32)">
+   <g transform="translate(-205.3 -82.845)" clip-path="url(#clipPath150)">
+    <g transform="translate(1151.8 676.73)">
+     <path d="m0 0s19.784-54.64 37.954-72.811c18.352-18.352 82.88-35.603 82.88-35.603z"/>
+    </g>
+    <g transform="translate(1677.9 816.18)">
+     <path d="m0 0c-45.84 0-114-9.294-164.74-31.37-42.116-18.326-165.83-144.42-173.89-152.23-12.393-12.005-15.492-14.716-33.306-8.493-28.214 9.185-72.306 33.988-72.306 33.988s48.122-75.466 64.947-98.278c25.975-35.235 70.471-53.446 70.471-53.446s-32.941 35.815-41.425 51.509c-7.745 14.33 1.982 26.864 48.412 62.741 76.683 59.255 144.35 107.52 211.85 142.91 63.515 33.307 99.533 42.188 126.64 52.671z"/>
+    </g>
+    <g transform="translate(1592.7 720.38)">
+     <path d="m0 0c-106.06-52.917-246.45-152.07-246.45-152.07 40.278-25.561 142.14-61.991 213.4-61.964 79.395 0 154.93 198.68 154.92 198.68-137.1-56.184-227.72-104.6-227.72-104.6l143.98 44.051s-45.22-103.16-97.629-103.16c-60.596 0-131.18 28.503-131.17 28.51 122 83.24 309.59 158.76 320 163.48 10.04 4.543 18.489 22.056 18.489 30.144-5.361 0-77.314-7.897-147.81-43.074"/>
+    </g>
+   </g>
+  </g>
+ </g>
+</svg>
