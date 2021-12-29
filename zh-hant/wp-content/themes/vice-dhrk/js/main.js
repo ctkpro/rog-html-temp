@@ -490,10 +490,9 @@ jQuery( document ).ready(function($) {
 
     // 中文版footer 加多語系
     $('#block-8').parent().removeClass('col-md-3').addClass('col-md-6');
-    $('#block-8').find('.wp-block-column').eq(0).append('<p><span class="icon-global"></span><a href="../" data-type="URL" rel="noreferrer noopener">English</a></p>').find('p').css({
+    $('#block-8').find('.wp-block-column').eq(0).append('<p style="display:inline-block"><a href="../" data-type="URL" rel="noreferrer noopener"><span class="icon-global"></span>English</a></p>').find('a').css({
         'display':'flex',
         'flex-wrap':'wrap',
-        'align-items': 'center',
         'justify-content':'center'
     });
     $('#block-8').find('.wp-block-column').eq(0).find('.icon-global').css({
