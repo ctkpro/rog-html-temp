@@ -8,14 +8,14 @@
 <channel>
 	<title>
 	Comments on: GO	</title>
-	<atom:link href="/go/feed/" rel="self" type="application/rss+xml" />
-	<link>/go/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=go</link>
+	<atom:link href="/tw/go/feed/" rel="self" type="application/rss+xml" />
+	<link>/tw/go/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=go</link>
 	<description>ROG SAGA</description>
-	<lastBuildDate>Wed, 22 Sep 2021 14:36:30 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 12 Aug 2021 11:20:51 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

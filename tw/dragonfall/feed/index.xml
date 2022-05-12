@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments on: DRAGONFALL	</title>
-	<atom:link href="/dragonfall/feed/" rel="self" type="application/rss+xml" />
-	<link>/dragonfall/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dragonfall</link>
+	Comments on: 寶龍城寨	</title>
+	<atom:link href="/tw/dragonfall/feed/" rel="self" type="application/rss+xml" />
+	<link>/tw/dragonfall/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dragonfall</link>
 	<description>ROG SAGA</description>
-	<lastBuildDate>Fri, 17 Sep 2021 07:37:19 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 18 Aug 2021 01:25:08 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

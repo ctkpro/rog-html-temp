@@ -18,15 +18,42 @@ jQuery(document).ready(function(){
 			"REVELATION",
 			"RE-AWAKENING",
 		]
-	]
+	];
+
+	const dictionary = [
+		['重啟','甦醒','反逆','共%','新秩序','復仇','革命','揭露'],
+		['鵟翔曲','反逆','共鳴','新x序','復仇','革*','對抗','重啟'],
+		['再。覺醒','0鳴','新秩序','復仇','革命','#抗','重逢','鵟翔曲'],
+		['共鳴','新秩序','w仇','革命','對抗','重逢','甦醒','反逆'],
+	];
+
+	function ctkSplitFlap(ele,texts){
+		for (let i = 0; i < texts.length; i++) {
+			setTimeout(function(){
+				ele.innerText = texts[i]
+			},250*i);
+		}
+	}
+
 	let splitflaps = document.querySelectorAll('.splitflap');
-	splitflaps.forEach((ele,index) =>{
-		splitFlap(ele, texts_set[index], {
-			'timeOut' : 1500,
-			'tickTimeOut' : 100,
-			'nbJumpIterations' : 4,
-		});
-	})
+
+	if( $('html').attr('lang') == 'en-US' ){
+		splitflaps.forEach((ele,index) =>{
+			splitFlap(ele, texts_set[index], {
+				'timeOut' : 1500,
+				'tickTimeOut' : 100,
+				'nbJumpIterations' : 4,
+			});
+		})
+	}
+	if( $('html').attr('lang') == 'zh-TW' ){
+		splitflaps.forEach((ele,index) =>{
+			setInterval(() => {
+				ctkSplitFlap(ele,dictionary[index]);
+			}, 4000);
+		})
+	}
+
 
 
 	// 這邊處理opening 中心saga換字,放這不放openingjs是因為要用import

@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments on: ROG CITADEL XV ON STEAM	</title>
-	<atom:link href="/rog-citadel-xv/feed/" rel="self" type="application/rss+xml" />
-	<link>/rog-citadel-xv/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rog-citadel-xv</link>
+	Comments on: ROG CITADEL XV, 只在 STEAM	</title>
+	<atom:link href="/tw/rog-citadel-xv/feed/" rel="self" type="application/rss+xml" />
+	<link>/tw/rog-citadel-xv/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rog-citadel-xv</link>
 	<description>ROG SAGA</description>
-	<lastBuildDate>Wed, 22 Sep 2021 14:35:30 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 21 Aug 2021 09:09:35 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -13113,7 +13113,7 @@ body#theBody.is_safari.is_mobile {
 
 /*Swipebox fix*/
 #swipebox-close, #swipebox-next, #swipebox-prev {
-  background-image: url("../img/icons.png") !important;
+  background-image: url("../wp-content/themes/vice/img/icons.png") !important;
 }
 
 /* = WooCommerce css

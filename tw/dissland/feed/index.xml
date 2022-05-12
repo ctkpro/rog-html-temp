@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments on: DISSLAND	</title>
-	<atom:link href="/dissland/feed/" rel="self" type="application/rss+xml" />
-	<link>/dissland/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dissland</link>
+	Comments on: 迪士蘭武裝藝術村	</title>
+	<atom:link href="/tw/dissland/feed/" rel="self" type="application/rss+xml" />
+	<link>/tw/dissland/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dissland</link>
 	<description>ROG SAGA</description>
-	<lastBuildDate>Fri, 17 Sep 2021 09:20:42 +0000</lastBuildDate>
+	<lastBuildDate>Thu, 16 Dec 2021 09:13:37 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -7,15 +7,15 @@
 	>
 <channel>
 	<title>
-	Comments on: GOEMON CITY	</title>
-	<atom:link href="/goemon-city/feed/" rel="self" type="application/rss+xml" />
-	<link>/goemon-city/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=goemon-city</link>
+	Comments on: 護衛紋市	</title>
+	<atom:link href="/tw/goemon-city/feed/" rel="self" type="application/rss+xml" />
+	<link>/tw/goemon-city/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=goemon-city</link>
 	<description>ROG SAGA</description>
-	<lastBuildDate>Wed, 01 Dec 2021 02:16:24 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 20 Aug 2021 07:43:28 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 </channel>
 </rss>

@@ -9,37 +9,37 @@
 
 <channel>
 	<title>ROG SAGA</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link>/</link>
+	<atom:link href="/tw/feed/" rel="self" type="application/rss+xml" />
+	<link>/tw/</link>
 	<description>ROG SAGA</description>
-	<lastBuildDate>Wed, 01 Dec 2021 02:16:24 +0000</lastBuildDate>
-	<language>en-US</language>
+	<lastBuildDate>Thu, 16 Dec 2021 09:13:37 +0000</lastBuildDate>
+	<language>zh-TW1</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8.2</generator>
+	<generator>https://wordpress.org/?v=5.8</generator>
 
 <image>
-	<url>../wp-content/uploads/2021/09/cropped-rog_logo_4005-32x32.png</url>
+	<url>../../wp-content/uploads/2021/09/cropped-rog_logo_4005-32x32.png</url>
 	<title>ROG SAGA</title>
-	<link>/</link>
+	<link>/tw/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>DISSLAND</title>
-		<link>/dissland/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dissland</link>
-					<comments>/dissland/#respond</comments>
+		<title>迪士蘭武裝藝術村</title>
+		<link>/tw/dissland/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dissland</link>
+					<comments>/tw/dissland/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
-		<pubDate>Tue, 14 Sep 2021 01:15:04 +0000</pubDate>
+		<pubDate>Thu, 16 Dec 2021 09:13:37 +0000</pubDate>
 				<category><![CDATA[Universe]]></category>
-		<guid isPermaLink="false">/?p=1389</guid>
+		<guid isPermaLink="false">/index.php/archives/2787/</guid>
 
-					<description><![CDATA[<p>DISSLAND_ DISSLAND Dissland is an amusement park in the north of Gigapolis San Diego &#38; Tijuana, capital of Citivas CASTITAS, taking up more than one hundred square miles and enjoying semi-autonomy from G.U.N.. This amusement park subsumed other major theme parks in California from before the FATE War. It was [...]</p>
-<p>The post <a href="/dissland/">DISSLAND</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1389" class="elementor elementor-1389" data-elementor-settings="[]">
+					<description><![CDATA[<p>迪士蘭武裝藝術村_ 迪士蘭武裝藝術村 貞潔治理區（Citivas CASTITAS）首都大聖地牙哥-提華納（Gigapolis San Diego &#38; Tijuana）以北百多公里半獨立自治區的綜合遊樂園。主要集合了 FATE War 時代以前好萊塢片廠與加州遊樂園的殘跡，被改造為藝術特區（含居住區與武裝設施。） 因其屬於 G.U.N. 鞭長莫及之地，乍看之下是由許多嬉皮藝術家／飛車黨所佔據的龍蛇雜處飛地；實際上，背地裡卻是由一群抵抗體制束縛的無政府主義者 G.A.M.E.R.s 所建設的獨立結社。 迪士蘭武裝藝術村的防衛工作由「武衛隊」（D.A.G.）所負責。「武衛隊」是「武裝藝術村防衛隊」（Dissland’s Armed Guards）的簡稱，成員大多打扮為各種吉祥物與動漫人物的模樣，簇擁著裝扮成巨鼠國王的「武衛隊」指揮官，每天兩次進行繞場遊行。 「武衛隊」繞場遊行除了例行宣示統治權外，必要時也能從戲服底下直接取出武裝，對入侵的敵對派系示威。同時，所有遊行車隊儘管本身都具有觀賞價值，但同時也都是武裝車輛。也因此，每天兩次的繞場遊行，實際上更是對控制範圍的防衛性巡邏。 整個迪士蘭武裝藝術村由下列主要區域構成： 城堡區 The Castles 裝飾成中世紀古堡造型的行政區。是統治該區域黑幫老大的辦公室，亦兼招待外賓的高級招待所。某些部分則劃為高階幹部自宅。 遊樂園區 The Amusement Park 佔地約與當今著名大型主題遊樂園或影城相當之巨大主題園區。不同的是，在這裡，有許多廉價旅館／出租民宿穿插其中，因而顯得喧囂熱鬧生機勃勃，但是相對治安就沒那麼良好了。 愛情摩天輪 Lovers’ Ferris Wheel 仿照過去摩天輪形式新構築的巨擘建築，也可說是迪士蘭武裝藝術村的代表性地標。平均每三小時繞行一圈，每間艙房都具備完整之旅館功能。除了三小時短期旅遊，遊客也能以優惠價格購買 24 小時的全日住宿。</p>
+<p>The post <a href="/tw/dissland/">迪士蘭武裝藝術村</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2787" class="elementor elementor-2787" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-e85967f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e85967f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
@@ -47,7 +47,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f0ec3f1 file-title elementor-widget elementor-widget-heading" data-id="f0ec3f1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">DISSLAND_</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">迪士蘭武裝藝術村_</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -68,7 +68,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5503c5b single-universe-title elementor-widget elementor-widget-heading" data-id="5503c5b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">DISSLAND</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">迪士蘭武裝藝術村</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -80,32 +80,32 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ea62281 elementor-widget elementor-widget-text-editor" data-id="ea62281" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>Dissland is an amusement park in the north of Gigapolis San Diego &amp; Tijuana, capital of Citivas CASTITAS, taking up more than one hundred square miles and enjoying semi-autonomy from G.U.N.. This amusement park subsumed other major theme parks in California from before the FATE War. It was later reformed into an art district, with nearby residential areas and arms facilities.</p><p>Out of reach from G.U.N., Dissland is an exclave occupied by hippie artists and street racers. It was established as an independent community by a group of anarchist G.A.M.E.R.s who oppose the system, and the current residents continue their legacy.</p><p>Defended by an armed guard unit known as Dissland’s Armed Guards, or D.A.G., most patrols operate dressed as former park mascots or anime characters. The units clusters around the commander, who dresses up like a giant rat, to march around the amusement park twice a day.</p><p>During this parade, it is routine for D.A.G. to assert their sovereignty. When the situation calls for it, they also demonstrate this power by warning away enemies with weapons cleverly hidden inside their costumes. Their cars are not just for looks but come armed and ready for combat. On paper the parades are a holdover from the past for nostalgia purposes, but in reality they are actually a defense patrol securing the controlled area.</p><p><strong>The castles:</strong> This is the administration area for Dissland, with constructions built like ancient castles from the Middle Ages. The castles act the offices for the mafia boss ruling the area, as well as luxurious guest houses designed to host important visitors. Some parts of this area are also used as residential blocks for high level park management.</p><p><strong>The amusement park:</strong> An enormous theme park, about the size of the largest parks from the 20th century. The park itself is perpetually full of noise and life due to the cheap accommodations located within park boundaries. The security situation, on the other hand, is not as good as one would expect.</p><p><strong>Lovers’ Ferris Wheel:</strong> A newly-designed massive construction, built like an old-time Ferris wheel. As the flagship landmark of the park, Lovers’ Ferris Wheel rotates around Dissland every three hours. Each cabin is equipped with top-tier amenities. Besides the three-hour ride, visitors can also book a room for the whole day at a discounted price to see incredible nighttime views of the park.</p>						</div>
+								<p>貞潔治理區（Citivas CASTITAS）首都大聖地牙哥-提華納（Gigapolis San Diego &amp; Tijuana）以北百多公里半獨立自治區的綜合遊樂園。主要集合了 FATE War 時代以前好萊塢片廠與加州遊樂園的殘跡，被改造為藝術特區（含居住區與武裝設施。）</p><p>因其屬於 G.U.N. 鞭長莫及之地，乍看之下是由許多嬉皮藝術家／飛車黨所佔據的龍蛇雜處飛地；實際上，背地裡卻是由一群抵抗體制束縛的無政府主義者 G.A.M.E.R.s 所建設的獨立結社。</p><p>迪士蘭武裝藝術村的防衛工作由「武衛隊」（D.A.G.）所負責。「武衛隊」是「武裝藝術村防衛隊」（Dissland’s Armed Guards）的簡稱，成員大多打扮為各種吉祥物與動漫人物的模樣，簇擁著裝扮成巨鼠國王的「武衛隊」指揮官，每天兩次進行繞場遊行。</p><p>「武衛隊」繞場遊行除了例行宣示統治權外，必要時也能從戲服底下直接取出武裝，對入侵的敵對派系示威。同時，所有遊行車隊儘管本身都具有觀賞價值，但同時也都是武裝車輛。也因此，每天兩次的繞場遊行，實際上更是對控制範圍的防衛性巡邏。</p><p>整個迪士蘭武裝藝術村由下列主要區域構成：</p><p><strong>城堡區 The Castles</strong></p><p>裝飾成中世紀古堡造型的行政區。是統治該區域黑幫老大的辦公室，亦兼招待外賓的高級招待所。某些部分則劃為高階幹部自宅。</p><p><strong>遊樂園區 The Amusement Park</strong></p><p>佔地約與當今著名大型主題遊樂園或影城相當之巨大主題園區。不同的是，在這裡，有許多廉價旅館／出租民宿穿插其中，因而顯得喧囂熱鬧生機勃勃，但是相對治安就沒那麼良好了。</p><p><strong>愛情摩天輪 Lovers’ Ferris Wheel</strong></p><p>仿照過去摩天輪形式新構築的巨擘建築，也可說是迪士蘭武裝藝術村的代表性地標。平均每三小時繞行一圈，每間艙房都具備完整之旅館功能。除了三小時短期旅遊，遊客也能以優惠價格購買 24 小時的全日住宿。</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/dissland/">DISSLAND</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/tw/dissland/">迪士蘭武裝藝術村</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/dissland/feed/</wfw:commentRss>
+					<wfw:commentRss>/tw/dissland/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
 		<title>HORSEM4N</title>
-		<link>/horsem4n/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=horsem4n</link>
+		<link>/tw/horsem4n/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=horsem4n</link>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
-		<pubDate>Mon, 13 Sep 2021 06:24:11 +0000</pubDate>
+		<pubDate>Thu, 16 Dec 2021 08:40:02 +0000</pubDate>
 				<category><![CDATA[GAMERS]]></category>
-		<guid isPermaLink="false">/?p=1315</guid>
+		<guid isPermaLink="false">/index.php/archives/2765/</guid>
 
-					<description><![CDATA[<p>The knight of death that controls four guns named after the Four Horsemen of the Apocalypse.</p>
-<p>The post <a href="/horsem4n/">HORSEM4N</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1315" class="elementor elementor-1315" data-elementor-settings="[]">
+					<description><![CDATA[<p>操控以天啟四騎士為名之四槍的死神</p>
+<p>The post <a href="/tw/horsem4n/">HORSEM4N</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2765" class="elementor elementor-2765" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-0ebfe34 elementor-section-full_width elementor-section-stretched file-title-back elementor-section-height-default elementor-section-height-default" data-id="0ebfe34" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -125,7 +125,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f2db787 elementor-widget elementor-widget-heading" data-id="f2db787" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">FILE No.001_</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">檔案編號 001_</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -137,11 +137,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-0dcd93c elementor-widget elementor-widget-text-editor" data-id="0dcd93c" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>REAL NAME</p>						</div>
+								<p><strong>真實姓名</strong></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-d1a642a elementor-widget elementor-widget-text-editor" data-id="d1a642a" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>VICTOR OCAÑAS</p>						</div>
+								<p><strong>維克多．奧卡尼亞</strong><br />VICTOR OCAÑAS</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -149,7 +149,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-062f1e9 elementor-widget elementor-widget-text-editor" data-id="062f1e9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>AGE</p>						</div>
+								<p><strong>年齡</strong></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-94c34ad elementor-widget elementor-widget-text-editor" data-id="94c34ad" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -161,11 +161,11 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-18481a5 elementor-widget elementor-widget-text-editor" data-id="18481a5" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>ABILITY &amp; WEAPONS</p>						</div>
+								<p><strong>能力與武器</strong></p>						</div>
 				</div>
 				<div class="elementor-element elementor-element-12ae798 elementor-widget elementor-widget-text-editor" data-id="12ae798" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<ul><li>CYBERCYCLE “ARMAGEDÓN”</li><li>FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH”</li></ul>						</div>
+								<ul><li><strong>電馭戰輪「末日」</strong>（ARMAGEDÓN）</li><li><strong>四把黑科技火器</strong>：<strong>征服 </strong>CONQUEST、<strong>戰爭 </strong>WAR、<strong>飢荒 </strong>FAMINE <strong>及死亡 </strong>DEATH</li></ul>						</div>
 				</div>
 					</div>
 		</div>
@@ -177,7 +177,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-d2e6e45 single-gamers-img elementor-widget elementor-widget-image" data-id="d2e6e45" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1920" height="1110" src="../wp-content/uploads/2021/09/Horsem4n_transparent2.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/09/Horsem4n_transparent2.png 1920w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-300x173.png 300w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-1024x592.png 1024w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-768x444.png 768w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-1536x888.png 1536w, ../wp-content/uploads/2021/09/Horsem4n_transparent2-600x347.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
+															<img width="1920" height="1110" src="../../wp-content/uploads/2021/09/Horsem4n_transparent2.png" class="attachment-full size-full" alt="" loading="lazy" srcset="../../wp-content/uploads/2021/09/Horsem4n_transparent2.png 1920w, ../../wp-content/uploads/2021/09/Horsem4n_transparent2-300x173.png 300w, ../../wp-content/uploads/2021/09/Horsem4n_transparent2-1024x592.png 1024w, ../../wp-content/uploads/2021/09/Horsem4n_transparent2-768x444.png 768w, ../../wp-content/uploads/2021/09/Horsem4n_transparent2-1536x888.png 1536w, ../../wp-content/uploads/2021/09/Horsem4n_transparent2-600x347.png 600w" sizes="(max-width: 1920px) 100vw, 1920px" />															</div>
 				</div>
 					</div>
 		</div>
@@ -197,12 +197,11 @@
 				</div>
 				<div class="elementor-element elementor-element-01f386f single-gamers-slogan elementor-widget elementor-widget-heading" data-id="01f386f" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">"Te veré en el infierno."
-</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">「地獄見。」</h2>		</div>
 				</div>
 				<div class="elementor-element elementor-element-b1012ae single-gamers-content elementor-widget elementor-widget-text-editor" data-id="b1012ae" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced into a cartel to partake in dangerous street races for their entertainment. Serendipitously, Víctor was later recruited by Blitz Blues &#8212; a mercenary guild under direct control of the Gigacorp Zdravljica, where he started a career with CyberCycle. He took HORSEM4N as his code name, and only he can handle the CyberCycle known as Armagedón. Mastering all sorts of firearms, Víctor can simultaneously wield four guns, each named after the Four Horsemen of the Apocalypse: Conquest, War, Famine, and Death. Víctor is the Reaper on the battlefield; while in private, he is fun, direct and hopelessly romantic.</p>						</div>
+								<p>維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。</p>						</div>
 				</div>
 					</div>
 		</div>
@@ -229,8 +228,8 @@
 								<div class="elementor-element elementor-element-aa76ac8 elementor-widget elementor-widget-vice-elementor-moderngallery" data-id="aa76ac8" data-element_type="widget" data-widget_type="vice-elementor-moderngallery.default">
 				<div class="elementor-widget-container">
 			
-			<div id="vice-elementor-moderngallery-grid-1315-519e4c7f023f7a82dbb6f0775af557ee" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
-				<div id="vice-elementor-moderngallery-el-1315-519e4c7f023f7a82dbb6f0775af557ee" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
+			<div id="vice-elementor-moderngallery-grid-2765-519e4c7f023f7a82dbb6f0775af557ee" class="vice-elementor-owl-carousel-container vice-modernslider vice-modernslider--moderngallery">
+				<div id="vice-elementor-moderngallery-el-2765-519e4c7f023f7a82dbb6f0775af557ee" class="vice-elementor-owl-carousel owl-carousel owl-theme vice-elementor-owl-theme" 
 					data-vice-animation3d=""
 					data-vicefx="default"
 					data-indexslide="1"
@@ -250,68 +249,78 @@
 											<div class="vice-elementor-item vice-3d-element" data-index="1">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>01</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
-		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
+<span class="vice-separator vice-separator--number"><span>
+    Horsem4n_1024x576_1</span></span>	<div class="vice-modernslider-item__thumbnail">
+		<a href="../../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
-				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
+				<img src="../../wp-content/uploads/2021/09/Horsem4n_1024x576_1.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N &#8220;Te veré en el infierno.&#8221; Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>
+    FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 「地獄見。」 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 https://www.youtube.com/watch?v=xBepMBdQTT8 Horsem4n_1024x576_1 FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 地獄見。 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="2">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>02</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
-		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
+<span class="vice-separator vice-separator--number"><span>
+    Horsem4n_1024x576_2</span></span>	<div class="vice-modernslider-item__thumbnail">
+		<a href="../../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
-				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
+				<img src="../../wp-content/uploads/2021/09/Horsem4n_1024x576_2.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N &#8220;Te veré en el infierno.&#8221; Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>
+    FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 「地獄見。」 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 https://www.youtube.com/watch?v=xBepMBdQTT8 Horsem4n_1024x576_1 FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 地獄見。 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="3">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>03</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
-		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
+<span class="vice-separator vice-separator--number"><span>
+    Horsem4n_1024x576_3</span></span>	<div class="vice-modernslider-item__thumbnail">
+		<a href="../../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
-				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
+				<img src="../../wp-content/uploads/2021/09/Horsem4n_1024x576_3.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N &#8220;Te veré en el infierno.&#8221; Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>
+    FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 「地獄見。」 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 https://www.youtube.com/watch?v=xBepMBdQTT8 Horsem4n_1024x576_1 FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 地獄見。 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="4">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>04</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail">
-		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
+<span class="vice-separator vice-separator--number"><span>
+    Horsem4n_1024x576_4</span></span>	<div class="vice-modernslider-item__thumbnail">
+		<a href="../../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
-				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
+				<img src="../../wp-content/uploads/2021/09/Horsem4n_1024x576_4.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N &#8220;Te veré en el infierno.&#8221; Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>
+    FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 「地獄見。」 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 https://www.youtube.com/watch?v=xBepMBdQTT8 Horsem4n_1024x576_1 FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 地獄見。 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 [...]</span></span></div>						</div>
 												<div class="vice-elementor-item vice-3d-element" data-index="5">
 							<div class="vice-modernslider-item vice-modernslider-item--moderngallery">
 	<!-- <span class="vice-separator vice-separator--number"><span>05</span></span> -->
-<span class="vice-separator vice-separator--number"><span>Horsem4n_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail">
-		<a href="../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
+<span class="vice-separator vice-separator--number"><span>
+    Horsem4n_1024x576_5</span></span>	<div class="vice-modernslider-item__thumbnail">
+		<a href="../../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
 			<div class="vice-modernslider-item__thumbnail__box vice-imgfx--default" data-vice-imgfx="default" >
-				<img src="../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
+				<img src="../../wp-content/uploads/2021/09/Horsem4n_1024x576_5.jpg">
 			</div>
 		</a>
 	</div>
 	<!-- <span class="vice-separator"></span> -->
 <span class="vice-separator"></span>
-<span class="vice-separator-description"><span>FILE No.001_ FILE No.001_ REAL NAME VICTOR OCAÑAS AGE 26 ABILITY &amp; WEAPONS CYBERCYCLE “ARMAGEDÓN” FOUR CYBERNETIC FIREARMS NAMED “CONQUEST”, “WAR”, “FAMINE”, AND “DEATH” HORSEM4N &#8220;Te veré en el infierno.&#8221; Hailing from Mexico, Víctor Ocañas was a natural shooter with outstanding agility. Due to his exceptional perception, Víctor was forced [...]</span></span></div>						</div>
+<span class="vice-separator-description"><span>
+    FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 「地獄見。」 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 https://www.youtube.com/watch?v=xBepMBdQTT8 Horsem4n_1024x576_1 FILE No.001_ 檔案編號 001_ 真實姓名 維克多．奧卡尼亞VICTOR OCAÑAS 年齡 26 能力與武器 電馭戰輪「末日」（ARMAGEDÓN） 四把黑科技火器：征服 CONQUEST、戰爭 WAR、飢荒 FAMINE 及死亡 DEATH HORSEM4N 地獄見。 維克多．奧卡尼亞（Víctor Ocañas）出身墨西哥，為擁有過人敏捷感官之天生射手。因其特殊天賦，被黑幫納入麾下成為職業槍手及競技車手。之後因緣際會被編入「黃道帶財團」（Gigacorp ZODIAK）直屬傭兵企業「閃藍」（Blitz Blues）並同時展開電馭戰輪（CyberCycle）職業賽生涯（HORSEM4N即為競技呼號；其愛車名為末日 Armagedón）。擅長各類槍械熱兵器，能同時精準操控四把以《啟示錄》中「天啟四騎士」命名之專屬槍械征服 Conquest、戰爭 War、飢荒 Famine 以及死亡 Death，是戰場上令人聞風喪膽的死神。私底下陽光剛烈、浪漫不羈，典型拉丁牛仔性格。 [...]</span></span></div>						</div>
 										</div>
 			</div>
 					</div>
@@ -321,42 +330,42 @@
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/horsem4n/">HORSEM4N</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/tw/horsem4n/">HORSEM4N</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>In the world of ROG, gamers fight for freedom</title>
-		<link>/steam/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=steam</link>
-					<comments>/steam/#respond</comments>
+		<title>在應許之地，玩家為了自由而戰</title>
+		<link>/tw/steam/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=steam</link>
+					<comments>/tw/steam/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Tue, 24 Aug 2021 09:00:22 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=1034</guid>
+				<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">/index.php/archives/2874/</guid>
 
 					<description><![CDATA[]]></description>
 										<content:encoded><![CDATA[]]></content:encoded>
 					
-					<wfw:commentRss>/steam/feed/</wfw:commentRss>
+					<wfw:commentRss>/tw/steam/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>LOOK INSIDE THE VISUAL UNIVERSE OF THE REPUBLIC OF GAMERS</title>
-		<link>/look-inside-the-visual-universe-of-the-republic-of-gamers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=look-inside-the-visual-universe-of-the-republic-of-gamers</link>
-					<comments>/look-inside-the-visual-universe-of-the-republic-of-gamers/#respond</comments>
+		<title>深度探索玩家共和國的世界觀</title>
+		<link>/tw/look-inside-the-visual-universe-of-the-republic-of-gamers/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=look-inside-the-visual-universe-of-the-republic-of-gamers</link>
+					<comments>/tw/look-inside-the-visual-universe-of-the-republic-of-gamers/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Mon, 23 Aug 2021 09:06:02 +0000</pubDate>
-				<category><![CDATA[News]]></category>
-		<guid isPermaLink="false">/?p=1040</guid>
+				<category><![CDATA[新聞]]></category>
+		<guid isPermaLink="false">/index.php/archives/2871/</guid>
 
 					<description><![CDATA[<p>Breaking conventional rules, taking on new design challenges, and pushing the limits of what great gaming gear can do is a core part of the ROG philosophy. We’ve never shied away from innovation, expanding the field with new devices that allow every type of gamer to perfect their experience. It’s [...]</p>
-<p>The post <a href="/look-inside-the-visual-universe-of-the-republic-of-gamers/">LOOK INSIDE THE VISUAL UNIVERSE OF THE REPUBLIC OF GAMERS</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1040" class="elementor elementor-1040" data-elementor-settings="[]">
+<p>The post <a href="/tw/look-inside-the-visual-universe-of-the-republic-of-gamers/">深度探索玩家共和國的世界觀</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2871" class="elementor elementor-2871" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-f4375eb elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="f4375eb" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-default">
@@ -368,7 +377,7 @@
 				</div>
 				<div class="elementor-element elementor-element-278b9ca elementor-widget elementor-widget-image" data-id="278b9ca" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1200" height="675" src="../wp-content/uploads/2021/08/1596095573271-1.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/1596095573271-1.jpg 1200w, ../wp-content/uploads/2021/08/1596095573271-1-300x169.jpg 300w, ../wp-content/uploads/2021/08/1596095573271-1-1024x576.jpg 1024w, ../wp-content/uploads/2021/08/1596095573271-1-768x432.jpg 768w, ../wp-content/uploads/2021/08/1596095573271-1-600x338.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
+															<img width="1200" height="675" src="../../wp-content/uploads/2021/08/1596095573271-1.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="../../wp-content/uploads/2021/08/1596095573271-1.jpg 1200w, ../../wp-content/uploads/2021/08/1596095573271-1-300x169.jpg 300w, ../../wp-content/uploads/2021/08/1596095573271-1-1024x576.jpg 1024w, ../../wp-content/uploads/2021/08/1596095573271-1-768x432.jpg 768w, ../../wp-content/uploads/2021/08/1596095573271-1-600x338.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-d21cac9 elementor-widget elementor-widget-text-editor" data-id="d21cac9" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -426,7 +435,7 @@
 				</div>
 				<div class="elementor-element elementor-element-da3ac76 elementor-widget elementor-widget-image" data-id="da3ac76" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1200" height="675" src="../wp-content/uploads/2021/08/1596095577443.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/1596095577443.jpg 1200w, ../wp-content/uploads/2021/08/1596095577443-300x169.jpg 300w, ../wp-content/uploads/2021/08/1596095577443-1024x576.jpg 1024w, ../wp-content/uploads/2021/08/1596095577443-768x432.jpg 768w, ../wp-content/uploads/2021/08/1596095577443-600x338.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
+															<img width="1200" height="675" src="../../wp-content/uploads/2021/08/1596095577443.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="../../wp-content/uploads/2021/08/1596095577443.jpg 1200w, ../../wp-content/uploads/2021/08/1596095577443-300x169.jpg 300w, ../../wp-content/uploads/2021/08/1596095577443-1024x576.jpg 1024w, ../../wp-content/uploads/2021/08/1596095577443-768x432.jpg 768w, ../../wp-content/uploads/2021/08/1596095577443-600x338.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-01d79f7 elementor-widget elementor-widget-text-editor" data-id="01d79f7" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -458,7 +467,7 @@
 				</div>
 				<div class="elementor-element elementor-element-31c0dcb elementor-widget elementor-widget-image" data-id="31c0dcb" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1200" height="675" src="../wp-content/uploads/2021/08/1596095578443.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/1596095578443.jpg 1200w, ../wp-content/uploads/2021/08/1596095578443-300x169.jpg 300w, ../wp-content/uploads/2021/08/1596095578443-1024x576.jpg 1024w, ../wp-content/uploads/2021/08/1596095578443-768x432.jpg 768w, ../wp-content/uploads/2021/08/1596095578443-600x338.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
+															<img width="1200" height="675" src="../../wp-content/uploads/2021/08/1596095578443.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="../../wp-content/uploads/2021/08/1596095578443.jpg 1200w, ../../wp-content/uploads/2021/08/1596095578443-300x169.jpg 300w, ../../wp-content/uploads/2021/08/1596095578443-1024x576.jpg 1024w, ../../wp-content/uploads/2021/08/1596095578443-768x432.jpg 768w, ../../wp-content/uploads/2021/08/1596095578443-600x338.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-69181be elementor-widget elementor-widget-text-editor" data-id="69181be" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -486,7 +495,7 @@
 				</div>
 				<div class="elementor-element elementor-element-6c87736 elementor-widget elementor-widget-image" data-id="6c87736" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-															<img width="1200" height="675" src="../wp-content/uploads/2021/08/159609557321.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="../wp-content/uploads/2021/08/159609557321.jpg 1200w, ../wp-content/uploads/2021/08/159609557321-300x169.jpg 300w, ../wp-content/uploads/2021/08/159609557321-1024x576.jpg 1024w, ../wp-content/uploads/2021/08/159609557321-768x432.jpg 768w, ../wp-content/uploads/2021/08/159609557321-600x338.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
+															<img width="1200" height="675" src="../../wp-content/uploads/2021/08/159609557321.jpg" class="attachment-full size-full" alt="" loading="lazy" srcset="../../wp-content/uploads/2021/08/159609557321.jpg 1200w, ../../wp-content/uploads/2021/08/159609557321-300x169.jpg 300w, ../../wp-content/uploads/2021/08/159609557321-1024x576.jpg 1024w, ../../wp-content/uploads/2021/08/159609557321-768x432.jpg 768w, ../../wp-content/uploads/2021/08/159609557321-600x338.jpg 600w" sizes="(max-width: 1200px) 100vw, 1200px" />															</div>
 				</div>
 				<div class="elementor-element elementor-element-7f2f666 elementor-widget elementor-widget-text-editor" data-id="7f2f666" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
@@ -501,46 +510,46 @@
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/look-inside-the-visual-universe-of-the-republic-of-gamers/">LOOK INSIDE THE VISUAL UNIVERSE OF THE REPUBLIC OF GAMERS</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/tw/look-inside-the-visual-universe-of-the-republic-of-gamers/">深度探索玩家共和國的世界觀</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/look-inside-the-visual-universe-of-the-republic-of-gamers/feed/</wfw:commentRss>
+					<wfw:commentRss>/tw/look-inside-the-visual-universe-of-the-republic-of-gamers/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>ROG CITADEL XV ON STEAM</title>
-		<link>/rog-citadel-xv/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rog-citadel-xv</link>
-					<comments>/rog-citadel-xv/#respond</comments>
+		<title>ROG CITADEL XV, 只在 STEAM</title>
+		<link>/tw/rog-citadel-xv/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=rog-citadel-xv</link>
+					<comments>/tw/rog-citadel-xv/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Sat, 21 Aug 2021 09:09:35 +0000</pubDate>
 				<category><![CDATA[Steam]]></category>
-		<guid isPermaLink="false">/?p=1043</guid>
+		<guid isPermaLink="false">/index.php/archives/2876/</guid>
 
 					<description><![CDATA[<p>Experience the ROG world like never before! Discover the fortified ROG base CITADEL XV, meet the resistance, and get a sneak peek at ROG 2021 line up. In ROG CITADEL, you explore a rebel armory filled with next-gen ROG gear, uncover secret surprises, and put your shooting gallery skills to [...]</p>
-<p>The post <a href="/rog-citadel-xv/">ROG CITADEL XV ON STEAM</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
+<p>The post <a href="/tw/rog-citadel-xv/">ROG CITADEL XV, 只在 STEAM</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
 										<content:encoded><![CDATA[<p>Experience the ROG world like never before! Discover the fortified ROG base CITADEL XV, meet the resistance, and get a sneak peek at ROG 2021 line up. In ROG CITADEL, you explore a rebel armory filled with next-gen ROG gear, uncover secret surprises, and put your shooting gallery skills to [...]</p>
-<p>The post <a href="/rog-citadel-xv/">ROG CITADEL XV ON STEAM</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+<p>The post <a href="/tw/rog-citadel-xv/">ROG CITADEL XV, 只在 STEAM</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/rog-citadel-xv/feed/</wfw:commentRss>
+					<wfw:commentRss>/tw/rog-citadel-xv/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>GOEMON CITY</title>
-		<link>/goemon-city/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=goemon-city</link>
-					<comments>/goemon-city/#respond</comments>
+		<title>護衛紋市</title>
+		<link>/tw/goemon-city/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=goemon-city</link>
+					<comments>/tw/goemon-city/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Fri, 20 Aug 2021 07:43:28 +0000</pubDate>
 				<category><![CDATA[Universe]]></category>
-		<guid isPermaLink="false">/?p=1328</guid>
+		<guid isPermaLink="false">/index.php/archives/2791/</guid>
 
-					<description><![CDATA[<p>GOEMON CITY_ GOEMON CITY Goemon City is underground, roughly located near the ruins of Hakone, a mountainous town in Kanagawa, Japan. During G.A.M.E.R.s’ War, the Japanese government and organized crime syndicates reached an agreement in secret to hollow out a massive cavity deep in the mountain. The dome of the [...]</p>
-<p>The post <a href="/goemon-city/">GOEMON CITY</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1328" class="elementor elementor-1328" data-elementor-settings="[]">
+					<description><![CDATA[<p>護衛紋市_ 護衛紋市 在全球地圖當中，護衛紋市（Goemon City）的所在地座標，大略位於舊日本國神奈川縣箱根町之地底。該處於 G.A.M.E.R.s’ War 期間，曾在日本政府與財團祕密協議下，由人工開鑿出一座地底巨坑，以林立的鋼骨塔樓支撐穹頂，做為因應重大災害發生時東京市緊急遷都之備案。 這座後來被以傳奇俠盜石川五右衛門（Ishikawa Goemon）命名的地底魔都，純然是昔日舊東京歌舞伎町一番街的電馭叛客（cyberpunk）放大翻版：在底層浮盪於燈紅酒綠的虛華墮落街區之間，一幢幢宛如巨柱聳立的極道總部高樓，齊齊整整拔地而起。 由於該地極道組織勢力龐大，因此每棟大型塔柱均由特定勢力進駐，整座地下都會則可說是由數十個極道勢力彼此持續交戰／割據的權力戰場。這些分屬不同堂口的柱狀巨樓並非虛有其表，它們由無數鋼鐵所鑄成的托天結構，紮紮實實地撐住護衛紋市看似無垠的人造穹頂。 護衛紋市的每棟建築巨擘格局整齊劃一，一律均為自給自足的住商混合獨棟巨型聚落；而散佈於各棟超級摩天樓下層的，則毫不意外是繁華浮誇的商業銀座。每棟摩天樓上所豎立的組織徽記，彷彿呼應戰國時代大名勢力的驕傲家紋。儘管由不同極道組織所分別治理，但在當地最高自治組織「護衛紋市藝館組合」（Goemon City Entertainment Association）的嚴格管控之下，只要不違反秩序（與潛秩序），基本上人身安全都能獲得一定保障。 如此的地下都會景觀，似乎正是將魔都護衛紋市所賴以生存的潛規則具體化之視覺印象——各侍其主的極道家系，一面從基座的東方拉斯維加斯汲取養分，無法無天；一面維持著勢力間的恐怖平衡，並一同撐起讓護衛紋市共存共榮的人造穹頂，盜亦有道。 護衛紋市在旅者的口耳相傳中，是個不允許外人拍攝的秘密都會。 那不只是因為在這座地下城裡，有太多遭到外部世界通緝的法外之徒，在此受到極道組織的庇護；同時也因為這裡所能體驗到的娛樂，並不適合在外部的檯面世界廣為流傳。 戰後，這座位於勤力治理區（Citivas INDUSTRIA）首府大太陽城（Gigapolis of the Great Sun）邊陲的地下巨都，在 Z.E.U.S.（資億優協）的授意下，被 G.U.N. 賦予特殊的治外法權位階，其後並發展為戰後最紙醉金迷的都會之一。 而因 FATE War 而被迫中斷的最熱門國際超電競（CySports）賽事「電馭戰輪錦標賽」（Grand Prix de MOTO ROYALE），也在護衛紋市設置了全新設計的「惠比壽賽道」（Ebisu Circuit），並巧妙配合一年一度的「式神祭」慶典，由各堂口競相推出各種巨大「式神機關」做為競技障礙，賦予賽事令人耳目一新的刺激體驗——在護衛紋市「惠比壽賽道」，沒有兩場競技會是相同的。 而當「電競戰輪錦標賽」宣佈舉行之時，護衛紋市全體將進入暫時封城狀態。這表示：只要「電馭戰輪錦標賽」開局哨音一響，所有城內人口的生命安全及其他保障，請自求多福。 護衛紋市所有軟硬體產權盡屬各堂口所有，因此競技中所發生的任何毀損與死傷，均計入耗損成本當中。當然，若參賽者所造成之破壞可能導致護衛紋市自身的營運危機或公安危機，「電馭戰輪錦標賽」主辦官方「國際超電競聯盟」（International Federation of CySports；I.F.C.）早已授意當地最高自治組織「護衛紋市藝館組合」全權處置，手段不拘。 偶爾，外來者們能看見極道組織的私人武裝部隊從一座摩天樓衝入另一幢摩天樓，在巨大的火光、爆音與慘叫聲中，將塔頂上標示的組織徽記改弦易幟；但通常而言，這些行動並不會危及觀光客的安全——除非這些旅客本身，就是來自外部世界、試圖挑戰護衛紋市權力生態恐怖平衡的的介入者……</p>
+<p>The post <a href="/tw/goemon-city/">護衛紋市</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2791" class="elementor elementor-2791" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-e85967f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e85967f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
@@ -548,7 +557,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f0ec3f1 file-title elementor-widget elementor-widget-heading" data-id="f0ec3f1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">GOEMON CITY_</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">護衛紋市_</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -569,7 +578,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5503c5b single-universe-title elementor-widget elementor-widget-heading" data-id="5503c5b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">GOEMON CITY</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">護衛紋市</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -581,32 +590,32 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ea62281 elementor-widget elementor-widget-text-editor" data-id="ea62281" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>Goemon City is underground, roughly located near the ruins of Hakone, a mountainous town in Kanagawa, Japan. During G.A.M.E.R.s’ War, the Japanese government and organized crime syndicates reached an agreement in secret to hollow out a massive cavity deep in the mountain. The dome of the city is reinforced with numerous stainless-steel towers, and this location serves as a fallback for emergency evacuations in case of any major disaster in Tokyo.</p><p>Named after the legendary vigilante Ishikawa Goemon, this city is an enlarged recreation of the Kabukichō district in Tokyo. On the very bottom, skyscrapers for Gokudō headquarters gleam proudly among vanity and corruption. One by one, these buildings are erected in a neat-and-tidy order.</p><p>As the local Gokudō organizations are extremely powerful, every tower is stationed by a specific branch of the organization. The whole underground megalopolis is the battleground for dozens of Gokudō power struggles. More than the imposing appearance, these towers belong to various gangs and support the infinite dome with uncounted iron and steel.</p><p>Inside every mega building in Goemon City, the layout is systematically designed as a self-sufficient settlement for mixed use, supporting both residential and commercial purposes. Like traditional mixed-use locations, the bottom stories are reserved for the advertising and commerce of retail businesses. On the top of each tower is the organizational emblem, echoing the proud family ties fostered during the warring states period. Ruled by these different Gokudō powers, everyone is strictly protected and controlled by the “Goemon City Entertainment Association&#8221;, the highest autonomous organization, as long as they obey the orders both written and unwritten in the city.</p><p>The city view is the visual embodiment of the unwritten rules for Goemon City, on which the magic city flourishes &#8212; the Gokudō houses serve their own leader. On one hand, they bloom and blossom based on resources inspired by East Las Vegas; on the other, they maintain a delicate balance among all powers and reinforce the artificial dome that is closely connected to the survival of the city. Even the Japanese mafia follow their own code and morality.</p><p>Travellers here quickly learn the unspoken rule; Goemon City is a clandestine city that no outsiders are allowed to take a picture of.<br />In this megalopolis below the surface, many outlaws wanted in the outside world are sheltered by the Gokudō organizations. The entertainment visitors experience here is not exactly the suitable to share with the world above.</p><p>Authorized by Z.E.U.S., and G.U.N., extraterritoriality has been granted to Goemon City. Located on the edge of the Gigapolis of the Great Sun, in Citivas INDUSTRIA, this city has developed into a metropolis that takes sensual and sexual pleasure to the extreme.</p><p>During the FATE War, the Grand Prix de MOTO ROYALE, the most popular CySports, was cancelled. After the war, the Ebisu Circuit, with a brand-new design, was built in Goemon City for the race. Once a year during the Shikigami Festival, huge floats inspired by Japanese folklore are created by each Gokudō house and installed on the circuit. The race is a fresh new experience with extreme excitement &#8212; On the Ebisu Circuit in Goemon City, every race is unique.</p><p>Throughout the grand race, the whole city will enter a temporary lockdown. Once the opening whistle sounds, everyone must watch out for their own safety and protection. It’s every man for himself.</p><p>All property in Goemon City belongs to individual Gokudō houses. Any damage or death taking place in the race is accounted for as an operating expense and underwritten by the houses’ insurance policies. On the other hand, if the participants cause damage so great that it could lead to an operational crisis or endanger the public, the organizer of the grand race, the International Federation of CySports, or I.F.C., has authorized the Goemon City Entertainment Association to take all necessary means to take care of the aftermath.</p><p>From time to time, outsiders can see private troops of one Gokudō house dashing from one skyscraper to another. In the aftermath of fire, explosions, and screaming, the emblem on top of the tower may change. For the most part, however, the internal machinations never put tourists in danger &#8212; unless these outsiders attempt to intervene in the delicate balance of power in Goemon City&#8230;</p>						</div>
+								<p>在全球地圖當中，護衛紋市（Goemon City）的所在地座標，大略位於舊日本國神奈川縣箱根町之地底。該處於 G.A.M.E.R.s’ War 期間，曾在日本政府與財團祕密協議下，由人工開鑿出一座地底巨坑，以林立的鋼骨塔樓支撐穹頂，做為因應重大災害發生時東京市緊急遷都之備案。</p><p>這座後來被以傳奇俠盜石川五右衛門（Ishikawa Goemon）命名的地底魔都，純然是昔日舊東京歌舞伎町一番街的電馭叛客（cyberpunk）放大翻版：在底層浮盪於燈紅酒綠的虛華墮落街區之間，一幢幢宛如巨柱聳立的極道總部高樓，齊齊整整拔地而起。</p><p>由於該地極道組織勢力龐大，因此每棟大型塔柱均由特定勢力進駐，整座地下都會則可說是由數十個極道勢力彼此持續交戰／割據的權力戰場。這些分屬不同堂口的柱狀巨樓並非虛有其表，它們由無數鋼鐵所鑄成的托天結構，紮紮實實地撐住護衛紋市看似無垠的人造穹頂。</p><p>護衛紋市的每棟建築巨擘格局整齊劃一，一律均為自給自足的住商混合獨棟巨型聚落；而散佈於各棟超級摩天樓下層的，則毫不意外是繁華浮誇的商業銀座。每棟摩天樓上所豎立的組織徽記，彷彿呼應戰國時代大名勢力的驕傲家紋。儘管由不同極道組織所分別治理，但在當地最高自治組織「護衛紋市藝館組合」（Goemon City Entertainment Association）的嚴格管控之下，只要不違反秩序（與潛秩序），基本上人身安全都能獲得一定保障。</p><p>如此的地下都會景觀，似乎正是將魔都護衛紋市所賴以生存的潛規則具體化之視覺印象——各侍其主的極道家系，一面從基座的東方拉斯維加斯汲取養分，無法無天；一面維持著勢力間的恐怖平衡，並一同撐起讓護衛紋市共存共榮的人造穹頂，盜亦有道。</p><p>護衛紋市在旅者的口耳相傳中，是個不允許外人拍攝的秘密都會。</p><p>那不只是因為在這座地下城裡，有太多遭到外部世界通緝的法外之徒，在此受到極道組織的庇護；同時也因為這裡所能體驗到的娛樂，並不適合在外部的檯面世界廣為流傳。</p><p>戰後，這座位於勤力治理區（Citivas INDUSTRIA）首府大太陽城（Gigapolis of the Great Sun）邊陲的地下巨都，在 Z.E.U.S.（資億優協）的授意下，被 G.U.N. 賦予特殊的治外法權位階，其後並發展為戰後最紙醉金迷的都會之一。</p><p>而因 FATE War 而被迫中斷的最熱門國際超電競（CySports）賽事「電馭戰輪錦標賽」（Grand Prix de MOTO ROYALE），也在護衛紋市設置了全新設計的「惠比壽賽道」（Ebisu Circuit），並巧妙配合一年一度的「式神祭」慶典，由各堂口競相推出各種巨大「式神機關」做為競技障礙，賦予賽事令人耳目一新的刺激體驗——在護衛紋市「惠比壽賽道」，沒有兩場競技會是相同的。</p><p>而當「電競戰輪錦標賽」宣佈舉行之時，護衛紋市全體將進入暫時封城狀態。這表示：只要「電馭戰輪錦標賽」開局哨音一響，所有城內人口的生命安全及其他保障，請自求多福。</p><p>護衛紋市所有軟硬體產權盡屬各堂口所有，因此競技中所發生的任何毀損與死傷，均計入耗損成本當中。當然，若參賽者所造成之破壞可能導致護衛紋市自身的營運危機或公安危機，「電馭戰輪錦標賽」主辦官方「國際超電競聯盟」（International Federation of CySports；I.F.C.）早已授意當地最高自治組織「護衛紋市藝館組合」全權處置，手段不拘。</p><p>偶爾，外來者們能看見極道組織的私人武裝部隊從一座摩天樓衝入另一幢摩天樓，在巨大的火光、爆音與慘叫聲中，將塔頂上標示的組織徽記改弦易幟；但通常而言，這些行動並不會危及觀光客的安全——除非這些旅客本身，就是來自外部世界、試圖挑戰護衛紋市權力生態恐怖平衡的的介入者……</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/goemon-city/">GOEMON CITY</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/tw/goemon-city/">護衛紋市</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/goemon-city/feed/</wfw:commentRss>
+					<wfw:commentRss>/tw/goemon-city/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>CALAIS-DOVER UNDERSEA BELT</title>
-		<link>/calais-dover-undersea-belt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=calais-dover-undersea-belt</link>
+		<title>加萊-多佛水下都會帶</title>
+		<link>/tw/calais-dover-undersea-belt/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=calais-dover-undersea-belt</link>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Thu, 19 Aug 2021 01:20:53 +0000</pubDate>
 				<category><![CDATA[Universe]]></category>
-		<guid isPermaLink="false">/?p=1396</guid>
+		<guid isPermaLink="false">/index.php/archives/2795/</guid>
 
-					<description><![CDATA[<p>CALAIS-DOVER UNDERSEA BELT_ CALAIS-DOVER UNDERSEA BELT Located in the EUROPOLIS, in Citivas GRATIA, Calais-Dover Undersea Belt connects the ruins of England and France by sea. It is a conglomerate of underwater cities built on the Channel Tunnel. The distance between Calais and Dover was the shortest route between England and [...]</p>
-<p>The post <a href="/calais-dover-undersea-belt/">CALAIS-DOVER UNDERSEA BELT</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1396" class="elementor elementor-1396" data-elementor-settings="[]">
+					<description><![CDATA[<p>加萊-多佛水下都會帶_ 加萊-多佛水下都會帶 加萊-多佛水下都會帶位於博愛治理區（Citivas GRATIA）首都歐羅巴城邦（EUROPOLIS）橫跨舊英格蘭與舊法蘭西大陸之間的海底，為一系列以昔日英法海底隧道（Channel Tunnel）為基礎發展而成的水下都會集合。 在 FATE War 期間，由於位在海底下方數十公尺的海底隧道可以躲過衛星偵照，因此被 G.U.N. 拓展成為人類聯軍之重要軍工要塞。戰爭結束後，則以此為基礎於隧道上方海床修築許多圓頂聚落，一路由舊英格蘭的多佛延伸至舊法蘭西的加萊，成為大西洋海底一條璀璨的水下亮帶。 加萊-多佛自古以來，即是歐洲歷史上英法兩地相距最近之處，同時亦為歐陸文明征伐英倫群島最短的路徑。歷史上數次戰役循此路線爆發，在二戰後的承平時光裡，兩國則協議以此最短路徑建立海底隧道。 加萊-多佛水下都會帶即以此地歷史為典故，以透明圓頂聚落做為主體，串成貫穿海峽的海底都市群落。整體景觀彷彿歐羅巴女神頸上一串綴滿珍珠的時尚項鍊，與歐羅巴美學藝術傳統相互呼應，在 FATE War 之後荒蕪的歐洲可說是最為耀眼的存在。 貫穿都會帶突出水面的十一個中繼站，則以與歐羅巴同源之古希臘奧林帕斯眾神之名，烘托出都會帶之優雅深邃——天后希拉、豐收女神狄蜜特、海王波賽冬、智慧女神雅典娜、光明之神阿波羅、狩獵女神阿蒂蜜絲、愛神阿芙羅黛蒂、戰爭之神阿瑞斯、火神赫菲斯托斯、神使荷米斯及爐火女神荷絲提雅。當然，在此地眾神之神宙斯（Zeus）是缺席的：因為 Z.E.U.S.（資億優協）正是凌駕這一切之上的唯一統治者。 在這十一座以神祇命名的都會巨塔裡，有著分別屬戰前歐洲各國的文化特色：你能在狄蜜特塔裡看見義大利的文藝復興藝術、在阿蒂蜜絲塔中聽見屬於愛爾蘭的塞爾特笛聲……踏入縱橫加萊-多佛水下都會帶的水底列車，即能體會仿如周遊昔日歐洲各國的繽紛旅途。 除了搭乘水下列車巡遊，你也能駕駛小型潛艇來趟海底自由行，讓生物學家帶你來趟溫帶海洋生態探索之旅，兩者都是造訪此處的招牌行程。 行政塔 Administration Towers 相當於獨立市鎮的層級，包含了商業區與住宅區本身。沿著整條水下都會帶，每隔約15公里就會有這樣一座行政塔，以作為附近都會的核心，並向上延伸出海面。這十一座行政塔分別以希臘奧林帕斯山眾神為名（宙斯除外）。 運輸區 Transportation Areas 沿著舊日海底隧道管線上方建築著許多海底快速管線，內有高速列車可以快速穿巡，往來於斯旺斯孔布（Swanscombe）與魯特夏（Lutetia）這兩處分別代表舊英法兩端的巨型都會核心。 水下圓頂聚落群 Underwater Dome Settlements 為分散在海面下之主要居住區。每個聚落都代表一個約 500 居住單位的基礎社區。較大型的圓頂內部擁有學校、圖書館、行政機關及商店街等公共設施。而阡陌縱橫連接各圓頂的複雜管線，有些做為雙向列車通道之用，有些則做為商店街、景致通道或其他特殊用途。</p>
+<p>The post <a href="/tw/calais-dover-undersea-belt/">加萊-多佛水下都會帶</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2795" class="elementor elementor-2795" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-e85967f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e85967f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
@@ -614,7 +623,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f0ec3f1 file-title elementor-widget elementor-widget-heading" data-id="f0ec3f1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">CALAIS-DOVER UNDERSEA BELT_</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">加萊-多佛水下都會帶_</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -635,7 +644,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5503c5b single-universe-title elementor-widget elementor-widget-heading" data-id="5503c5b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">CALAIS-DOVER UNDERSEA BELT</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">加萊-多佛水下都會帶</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -647,31 +656,31 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ea62281 elementor-widget elementor-widget-text-editor" data-id="ea62281" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>Located in the EUROPOLIS, in Citivas GRATIA, Calais-Dover Undersea Belt connects the ruins of England and France by sea. It is a conglomerate of underwater cities built on the Channel Tunnel.</p><p>The distance between Calais and Dover was the shortest route between England and France. In war, this is the fastest route to take for any European state to initiate an attack on the United Kingdom. In human history, several wars have broken out to secure this area. In the peace after World War II, both countries agreed on constructing an undersea tunnel on the path in the name of goodwill and international trade.</p><p>Since the Channel Tunnel was constructed dozens of meters below sea level, even advanced satellites could not detect activity down there. The Calais-Dover Undersea Belt was developed by G.U.N. as a vital military station for human allies during the FATE War. Subsequent to the war, dome settlements were built on top of the tunnel, from Dover in old England to Calais in what remains of France, forming a glamorous belt under the Atlantic Ocean.</p><p>This is the story of Calais-Dover Undersea Belt. Transparent domes cluster together, forming underwater settlements. The Calais-Dover Undersea Belt is like a necklace of precious pearls worn by the goddess Europa, the jewel of the continent. After the FATE War, the European continent was burnt and wasted, making the belt as dazzling as a diamond.</p><p>There are eleven relay stations standing along the belt above the water line. Drawing from the same origin as Europa, these stations are named after the ancient Greek gods &#8212; Hera as the Queen of the gods, Demeter as the goddess of Agriculture, Poseidon as the god of sea, Athena as the goddess of wisdom, Apollo as the god of the sun, Artemis as the goddess of the hunt, Aphrodite as the goddess of Love, Ares as the god of war, Hephaestus as the god of fire, Hermes as the messenger of the gods, and Hestia as the goddess of the Hearth. Zeus as the father of gods is excluded here, as Z.E.U.S. stands for the only ruler above all these.</p><p>In these eleven towers named after the Greek gods, distinguished culture from pre-war European countries can be discovered here: You can take an art trip of Italian renaissance in the tower of Demeter or hear the Celtic flute unique to Ireland in the tower of Artemis. Once one steps in the underwater shuttle that runs on the Calais-Dover Undersea Belt, a visitor can expect a wonderful trip around Europe as it was before the war.<br />Taking a tour by underwater shuttle is pleasant, but piloting a private submarine is even better. In a self-guided tour under the sea, one can bring a biologist for an exploration of marine ecology. Both transportation means are popular with tourists travelling here.</p><p><strong>Administration Tower:</strong> This region is essentially an independent town, consisting of residential areas and commercial areas. Along the Undersea Belt, an administration tower is set up every 15 kilometers, serving as the core for the surrounding city and extending upwards above the sea. There are eleven administration towers in total, and they are named after Greek gods, excluding Zeus.<br /><strong>Transportation area:</strong> Alongside the old Channel Tunnel are built numerous pipelines, through which high-speed shuttles run. The high-speed shuttles travel between Swanscombe and Lutetia, two cities which represent the remnants of England and France from before the war.<br /><strong>Underwater Dome Settlements:</strong> As the main residential area underwater, every settlement is a basic community for about 500 living units. In larger domes, there are public facilities such as schools, libraries, government offices, and business streets. The complicated pipelines connecting all domes form an intricate network. Some pipelines are used for shuttle services, some for business, tourism, or other purposes.</p>						</div>
+								<p>加萊-多佛水下都會帶位於博愛治理區（Citivas GRATIA）首都歐羅巴城邦（EUROPOLIS）橫跨舊英格蘭與舊法蘭西大陸之間的海底，為一系列以昔日英法海底隧道（Channel Tunnel）為基礎發展而成的水下都會集合。</p><p>在 FATE War 期間，由於位在海底下方數十公尺的海底隧道可以躲過衛星偵照，因此被 G.U.N. 拓展成為人類聯軍之重要軍工要塞。戰爭結束後，則以此為基礎於隧道上方海床修築許多圓頂聚落，一路由舊英格蘭的多佛延伸至舊法蘭西的加萊，成為大西洋海底一條璀璨的水下亮帶。</p><p>加萊-多佛自古以來，即是歐洲歷史上英法兩地相距最近之處，同時亦為歐陸文明征伐英倫群島最短的路徑。歷史上數次戰役循此路線爆發，在二戰後的承平時光裡，兩國則協議以此最短路徑建立海底隧道。</p><p>加萊-多佛水下都會帶即以此地歷史為典故，以透明圓頂聚落做為主體，串成貫穿海峽的海底都市群落。整體景觀彷彿歐羅巴女神頸上一串綴滿珍珠的時尚項鍊，與歐羅巴美學藝術傳統相互呼應，在 FATE War 之後荒蕪的歐洲可說是最為耀眼的存在。</p><p>貫穿都會帶突出水面的十一個中繼站，則以與歐羅巴同源之古希臘奧林帕斯眾神之名，烘托出都會帶之優雅深邃——天后希拉、豐收女神狄蜜特、海王波賽冬、智慧女神雅典娜、光明之神阿波羅、狩獵女神阿蒂蜜絲、愛神阿芙羅黛蒂、戰爭之神阿瑞斯、火神赫菲斯托斯、神使荷米斯及爐火女神荷絲提雅。當然，在此地眾神之神宙斯（Zeus）是缺席的：因為 Z.E.U.S.（資億優協）正是凌駕這一切之上的唯一統治者。</p><p>在這十一座以神祇命名的都會巨塔裡，有著分別屬戰前歐洲各國的文化特色：你能在狄蜜特塔裡看見義大利的文藝復興藝術、在阿蒂蜜絲塔中聽見屬於愛爾蘭的塞爾特笛聲……踏入縱橫加萊-多佛水下都會帶的水底列車，即能體會仿如周遊昔日歐洲各國的繽紛旅途。</p><p>除了搭乘水下列車巡遊，你也能駕駛小型潛艇來趟海底自由行，讓生物學家帶你來趟溫帶海洋生態探索之旅，兩者都是造訪此處的招牌行程。</p><p><strong>行政塔 Administration Towers</strong></p><p>相當於獨立市鎮的層級，包含了商業區與住宅區本身。沿著整條水下都會帶，每隔約15公里就會有這樣一座行政塔，以作為附近都會的核心，並向上延伸出海面。這十一座行政塔分別以希臘奧林帕斯山眾神為名（宙斯除外）。</p><p><strong>運輸區 Transportation Areas</strong></p><p>沿著舊日海底隧道管線上方建築著許多海底快速管線，內有高速列車可以快速穿巡，往來於斯旺斯孔布（Swanscombe）與魯特夏（Lutetia）這兩處分別代表舊英法兩端的巨型都會核心。</p><p><strong>水下圓頂聚落群 Underwater Dome Settlements</strong></p><p>為分散在海面下之主要居住區。每個聚落都代表一個約 500 居住單位的基礎社區。較大型的圓頂內部擁有學校、圖書館、行政機關及商店街等公共設施。而阡陌縱橫連接各圓頂的複雜管線，有些做為雙向列車通道之用，有些則做為商店街、景致通道或其他特殊用途。</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/calais-dover-undersea-belt/">CALAIS-DOVER UNDERSEA BELT</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/tw/calais-dover-undersea-belt/">加萊-多佛水下都會帶</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
 		
 		
 			</item>
 		<item>
-		<title>DRAGONFALL</title>
-		<link>/dragonfall/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dragonfall</link>
-					<comments>/dragonfall/#respond</comments>
+		<title>寶龍城寨</title>
+		<link>/tw/dragonfall/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=dragonfall</link>
+					<comments>/tw/dragonfall/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Wed, 18 Aug 2021 01:25:08 +0000</pubDate>
 				<category><![CDATA[Universe]]></category>
-		<guid isPermaLink="false">/?p=1405</guid>
+		<guid isPermaLink="false">/index.php/archives/2798/</guid>
 
-					<description><![CDATA[<p>DRAGONFALL_ DRAGONFALL Located in a massive sinkhole in the suburb of Gigapolis Equator, the capital of Citivas MODERATIO, Dragonfall used to be a floating fortress with an auxiliary ground base belonging to FATE’s military during the FATE War. After the war, the floating fortress was wrecked and demolished. Local residents [...]</p>
-<p>The post <a href="/dragonfall/">DRAGONFALL</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1405" class="elementor elementor-1405" data-elementor-settings="[]">
+					<description><![CDATA[<p>寶龍城寨_ 寶龍城寨 寶龍城寨為位於節度治理區（Citivas MODERATIO）首都赤道市（Gigapolis Equator）周遭區域的巨大陷坑。在 FATE War 時代，這裡曾是 FATE 軍團一座浮空要塞位於地面上的基座。 戰後，當浮空要塞遭到毀棄，人們開始沿著基座邊緣搭建大量違章建築，並取用基座底部的能源核心及浮空要塞中留存的黑科技殘跡過活。寶龍城寨算是目前世上少數直接取用FATE時代遺跡做為主要經濟來源的混成聚落，總人口約 1,000 萬。由上而下，主要由數個垂直分佈的城區所構成—— 原浮空要塞基座部 The Base of Primal Fortress 寶龍城寨最底部區域。原先做為提供浮空要塞充能及補給基地使用，其後成了寶龍城寨主要能源供應，同時亦為經濟發展的基礎。 螺旋壁聚落 Spiral Mural Settlements 多數居民沿著浮空要塞基座牆面深入挖掘，與埋藏其中的能源設施接通後，建立起一層又一層的雜亂屋舍。由最外層向內，大概挖掘了將近 150 公尺的深度。這裡緩慢的進展使此區有著形形色色不同社會地位的居民。一如斷木樹芯將逐漸被白蟻啃蝕化為養料，這座基地廢墟也以此支撐著陷坑眾人的生活。由於終日生活在看不見陽光的地方，此處也被稱為「蛇穴」（Snake Den）。 上層牆區 Upper Mural Area 繞著巨大基座陷坑的地表邊緣，向上建立出一座座集合社區與商業大樓，形成一道環型巨牆。此區住戶多半為跨國企業派駐於寶龍城寨的管理幹部階層，以及被黑科技遺跡龐大商機所吸引而來的黑白兩道；生活條件普遍比螺旋壁聚落來得好上許多。上層牆區亦擁有合資聘僱的特區武裝巡邏隊維護治安，可說是寶龍城寨的富人區，俗稱「上環」（The Ring of the Lords）。 浮空要塞遺跡（礦場）Floating Fortress Ruins, the Mine 在 FATE War 停止那一刻，這座匿蹤核心毀損的浮空要塞就這麼高懸於空中，既不墜落也無法移動，形成某種詭異的地景。 由於 FATE 軍團遺跡往往蘊藏珍貴的黑科技殘骸，因而此處於戰後馬上成為各方勢力搶進的熱門科技礦場。不過，這座遺跡蘊藏許多未知危險，又因重力扭曲而常導致意外發生，因此挖掘遺跡的產業很快就由黑道及人口販子所把持，以高利潤吸引亡命之徒及走私大量奴工來替眾多軍工複合企業提供服務。 浮空要塞遺跡與地面城寨區之間，至今仍懸浮著許多小型要塞剝落區塊。這種因重力場變異所產生的特殊地景，如今成為寶龍城寨最重要的觀光賣點。 [...]</p>
+<p>The post <a href="/tw/dragonfall/">寶龍城寨</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2798" class="elementor elementor-2798" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-e85967f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e85967f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
@@ -679,7 +688,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f0ec3f1 file-title elementor-widget elementor-widget-heading" data-id="f0ec3f1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">DRAGONFALL_</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">寶龍城寨_</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -700,7 +709,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5503c5b single-universe-title elementor-widget elementor-widget-heading" data-id="5503c5b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">DRAGONFALL</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">寶龍城寨</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -712,33 +721,33 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ea62281 elementor-widget elementor-widget-text-editor" data-id="ea62281" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>Located in a massive sinkhole in the suburb of Gigapolis Equator, the capital of Citivas MODERATIO, Dragonfall used to be a floating fortress with an auxiliary ground base belonging to FATE’s military during the FATE War.</p><p>After the war, the floating fortress was wrecked and demolished. Local residents and scavengers started to construct numerous buildings that were neither legal nor safe along the base, surviving by siphoning the core energy from the base and salvaging the cutting-edge black technology remaining in the fortress. With a total population of ten million people, Dragonfall is one of the few settlements whose main industries directly build on the ruins left from the FATE era. From bottom to top, Dragonfall is arranged vertically with several distinct areas.<br /><br /><strong>The Base of the Primal Fortress:</strong> During the war, the bottom of the Dragonfall was used to recharge and resupply the base. In current times, the still functioning fusion reactors remain the main energy supplier for the whole of Dragonfall. This functionally limitless energy source paved the groundwork for all other economic development in the city.</p><p><strong>Spiral Mural Settlements:</strong> Many inhabitants built their homes, layer by layer, after digging into the wall of the base and connecting the wires with the energy facilities within. From the outer layer, they have dug around 150 meters inward. This slow progress makes the neighborhood diverse, with people of different social status mingling here. Like termites slowly working their way through the heartwood of a fallen tree, the ruins of the base serve as a hive of activity for the current residents. As the sun never shines in these settlements, this place is locally known as the &#8220;Snake Den.”<br /><br /><strong>Upper Mural Area:</strong> Surrounding the edge of the massive sinkhole, residential areas and conglomerates have established themselves to form a giant torus, completely circling the former base. The residents here are mostly management sent by international companies to supervise the various Dragonfall extraction and salvage businesses. Some intrepid individuals who were attracted by the same opportunities created with black technology have also arrived, both from the law-abiding and lawless worlds. In general, the living standard here is much higher than in the Spiral Mural Settlements. In this district, social order is maintained by armed patrol troops. People call this area the Ring of the Lords, as this is only accessible to the rich.<br /><br /><strong>Floating Fortress Ruins (the Mine):</strong> Since the moment the FATE War ceased, the ruins of the fortress have become a bizarre sight, which neither fall nor move. As precious black technology can easily be found in the wreck of the FATE military base, this place has become a hot mining spot by various powers after the war. The mine, however, holds a great deal of unknown danger. Accidents happen here frequently because of irregular gravity generation caused by broken emitters. Because of this, the salvage industry here was quickly controlled by gangs and human traffickers, who provide service for countless military and private security contractors that are drawn by high profits and undeterred by the risky working conditions. Between the fortress ruins and the ground settlements, several flakes broken off from the main fort still float in the air. Caused by malfunctioning anti-gravity emitters, this unique sight has become the greatest tourist attraction in Dragonfall.<br /><br /><strong>Dragon’s Crown Circuit:</strong> From the deserted fortress ruins high above the ground to the central sinkhole of Dragonfall, this space is one of the eight Global Level MOTO ROYALE racetracks. After a quick traditional circuit of the floating fortress, the course runs in a spiral to Dragonfall’s base. Once the mines there have been traversed, racers travel back up to the starting line at the Dragon’s Crown, completing the double-helix. Several consecutive speed records for the Dragon’s Crown circuit have been broken during the downhill section of the course. Whenever a race is held, hordes of tourists pour in, considerably stimulating the Dragonfall economy.</p>						</div>
+								<p>寶龍城寨為位於節度治理區（Citivas MODERATIO）首都赤道市（Gigapolis Equator）周遭區域的巨大陷坑。在 FATE War 時代，這裡曾是 FATE 軍團一座浮空要塞位於地面上的基座。</p><p>戰後，當浮空要塞遭到毀棄，人們開始沿著基座邊緣搭建大量違章建築，並取用基座底部的能源核心及浮空要塞中留存的黑科技殘跡過活。寶龍城寨算是目前世上少數直接取用FATE時代遺跡做為主要經濟來源的混成聚落，總人口約 1,000 萬。由上而下，主要由數個垂直分佈的城區所構成——</p><p><strong>原浮空要塞基座部 The Base of Primal Fortress</strong></p><p>寶龍城寨最底部區域。原先做為提供浮空要塞充能及補給基地使用，其後成了寶龍城寨主要能源供應，同時亦為經濟發展的基礎。</p><p><strong>螺旋壁聚落 Spiral Mural Settlements</strong></p><p>多數居民沿著浮空要塞基座牆面深入挖掘，與埋藏其中的能源設施接通後，建立起一層又一層的雜亂屋舍。由最外層向內，大概挖掘了將近 150 公尺的深度。這裡緩慢的進展使此區有著形形色色不同社會地位的居民。一如斷木樹芯將逐漸被白蟻啃蝕化為養料，這座基地廢墟也以此支撐著陷坑眾人的生活。由於終日生活在看不見陽光的地方，此處也被稱為「蛇穴」（Snake Den）。</p><p><strong>上層牆區 Upper Mural Area</strong></p><p>繞著巨大基座陷坑的地表邊緣，向上建立出一座座集合社區與商業大樓，形成一道環型巨牆。此區住戶多半為跨國企業派駐於寶龍城寨的管理幹部階層，以及被黑科技遺跡龐大商機所吸引而來的黑白兩道；生活條件普遍比螺旋壁聚落來得好上許多。上層牆區亦擁有合資聘僱的特區武裝巡邏隊維護治安，可說是寶龍城寨的富人區，俗稱「上環」（The Ring of the Lords）。</p><p><strong>浮空要塞遺跡（礦場）Floating Fortress Ruins, the Mine</strong></p><p>在 FATE War 停止那一刻，這座匿蹤核心毀損的浮空要塞就這麼高懸於空中，既不墜落也無法移動，形成某種詭異的地景。</p><p>由於 FATE 軍團遺跡往往蘊藏珍貴的黑科技殘骸，因而此處於戰後馬上成為各方勢力搶進的熱門科技礦場。不過，這座遺跡蘊藏許多未知危險，又因重力扭曲而常導致意外發生，因此挖掘遺跡的產業很快就由黑道及人口販子所把持，以高利潤吸引亡命之徒及走私大量奴工來替眾多軍工複合企業提供服務。</p><p>浮空要塞遺跡與地面城寨區之間，至今仍懸浮著許多小型要塞剝落區塊。這種因重力場變異所產生的特殊地景，如今成為寶龍城寨最重要的觀光賣點。</p><p><strong>雙龍爭冠賽道 Dragon’s Crown Circuit</strong></p><p>從廢棄浮空要塞往下延伸至寶龍城寨中央陷坑的這塊特殊空間所構成的頂級「電馭戰輪錦標賽」賽道，也是唯一一個呈垂直分佈的賽道。每逢賽事，寶龍城寨就會湧入眾多觀光客，帶來豐沛的觀光挹注。龍冠賽道的全貌，是個首尾連接的雙股螺旋：車手在上達頂端礦場之後，會接著垂直俯衝向下繼續攻略，週而復始完成比賽。由於俯衝賽段的亡命程度超乎想像，此處成為各家車手爭奪鎂光燈的必爭之地，因此常有競速紀錄在此被打破。每逢比賽開始時，雙龍爭冠賽道都會吸引全球觀光客包團前來，大大促進寶隆城寨的經濟發展。</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/dragonfall/">DRAGONFALL</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/tw/dragonfall/">寶龍城寨</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/dragonfall/feed/</wfw:commentRss>
+					<wfw:commentRss>/tw/dragonfall/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>THE SPIDER BELLY</title>
-		<link>/the-spider-belly/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-spider-belly</link>
-					<comments>/the-spider-belly/#respond</comments>
+		<title>阿南西城雌蛛區</title>
+		<link>/tw/the-spider-belly/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=the-spider-belly</link>
+					<comments>/tw/the-spider-belly/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Tue, 17 Aug 2021 04:03:25 +0000</pubDate>
 				<category><![CDATA[Universe]]></category>
-		<guid isPermaLink="false">/?p=1469</guid>
+		<guid isPermaLink="false">/index.php/archives/2801/</guid>
 
-					<description><![CDATA[<p>THE SPIDER BELLY_ THE SPIDER BELLY The core of the east area of Gigapolis Anansi, the capital of Citivas LIBERALITAS, the feminam area is built based on the totem of a spider belly. Meanwhile, this place also ranks as the first world metropolis built from the ground up as an [...]</p>
-<p>The post <a href="/the-spider-belly/">THE SPIDER BELLY</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1469" class="elementor elementor-1469" data-elementor-settings="[]">
+					<description><![CDATA[<p>阿南西城雌蛛區_ 阿南西城雌蛛區 阿南西城雌蛛區，是位於施惠治理區（Citivas LIBERALITAS）首都阿南西城（Gigapolis Anansi）東區的核心，以蜘蛛圖騰之腹部做為輪廓藍本，也是世界藝術評比名列第一的全球都會。這裡是以舊時代奈及利亞首都拉哥斯轉化而來，與迦納首都阿克拉所構成的雄蛛區遙相對望。 阿南西城別號「蜘蛛之城」（City of the Spider），坐落於西非。當初是由迦納、多哥、貝南、奈及利亞四國所聯合籌建，以西非「故事之神」阿南西（Anansi）信仰之代表符號「蜘蛛」為核心規劃概念。 阿南西城於建成之日，即獲得聯合國納入世界文化遺址之殊榮，更是當時世界藝術評比名列第一之嶄新科技都會。 在這座巨都的建築過程中，一度由於資金匱乏而導致進度停擺，直到阿克蘇姆財團（Gigacorp AKSUM）以雄厚資本提供奧援，才得以持續完成；而其附帶的交換條件，則是在市區規劃一塊精華區域，以提供阿克蘇姆財團設置其全新的企業總部，並帶入屬於財團象徵的「示巴女王」（Queen of Sheba）巨像。 遊人若要探訪阿南西城，首推便是其中央商業區了。這裡有全世界最多的公共藝術及最多的露天劇場。無時無刻，源自遼闊非洲大地各處的歌謠與舞蹈，都在雌蛛區的各商業區段不間斷演出——你能在這裡見識到明日世界巨星初登舞台的風采，以及各種迴盪在曠野中的動人嗓聲。 當你離開中央商業區，繼續深入探訪各個一般行政區時，則更能感受原來非洲各國匯聚於此的社群文化精髓。我們甚至可以這樣說：阿南西城，實際上便是整個非洲大陸的縮影。 阿南西城雌蛛區的整體設計，揉合了西非當地的神話元素與南美洲納斯卡圖騰概念。都市計劃師大膽採取了「納斯卡線實境化」之原創構想，進而演繹出充滿高質感的非洲文明圖像。 阿南西城的三個重點市區以蜘蛛的形狀做為主要都會輪廓，形塑出明確對應蜘蛛頭胸部及腹部之雙子都會區域；而向外延伸的八條主要幹道，則象徵蜘蛛的四對步足。在高空偵照鏡頭下，搭配都市計劃師刻意而為的都會輪廓線，令人一眼即能看出偉大阿南西城明確的蜘蛛外貌。 關於阿南西城雌蛛區（The feminam area）的城區景觀，可再詳細描繪如下： 蛛腹區 The Spider Belly 為巨型核融合反應發電廠，以提供居民潔淨與充足能源，同時亦為當地主要經濟與商業核心區域。 高級住宅區 High-End Residential Area 戰後以高科技重建之新興建築群，居留及通行此處公民普遍擁有較高「公民發展指數」。內部建築由舊時代的許多建築風格拼裝而成，爭奇鬥艷，充滿多元風格。 示巴之顏 Face of Sheba 阿南西城為財團新總部所在地及勢力範圍，因此於蛛腹區中央建構了巨大的示巴女王面具雕像，唯有從上空俯瞰才能清楚辨識。 一般行政區 Residential Areas 每個行政區均有屬於自己的文化與特色，治安狀況也不盡相同。高彩度的建築特徵與架高的軌道短程交通系統是其特色。 行政塔 Administration Towers 每個行政區均有一座屬於自己的行政塔，具有強烈的當地文化象徵。 聯外幹道 Main Lines Leading Outwards 八條主要聯外幹道通往行政區，與城區搭配俯瞰就像是蜘蛛的納斯卡式構圖。</p>
+<p>The post <a href="/tw/the-spider-belly/">阿南西城雌蛛區</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2801" class="elementor elementor-2801" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-e85967f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e85967f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
@@ -746,7 +755,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f0ec3f1 file-title elementor-widget elementor-widget-heading" data-id="f0ec3f1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">THE SPIDER BELLY_</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">阿南西城雌蛛區_</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -767,7 +776,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5503c5b single-universe-title elementor-widget elementor-widget-heading" data-id="5503c5b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">THE SPIDER BELLY</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">阿南西城雌蛛區</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -779,47 +788,33 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ea62281 elementor-widget elementor-widget-text-editor" data-id="ea62281" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>The core of the east area of Gigapolis Anansi, the capital of Citivas LIBERALITAS, the feminam area is built based on the totem of a spider belly. Meanwhile, this place also ranks as the first world metropolis built from the ground up as an art installation. Transformed from Lagos, the capital of Nigeria of the old time, the feminam area corresponds to the masculum area formed from Accra, the capital of Ghana. This massive 480km wide city is the crown jewel of West Africa.</p>
-<p>Nicknamed the City of the Spider, Gigapolis Anansi is located in West Africa. During its initial formation, this city was designed and built by Ghana, Togo, Bénin, and Nigeria. It was based on the core concept of the spider and the belief of Anansi, the god of West Africa.</p>
-<p>Since the very day Anansi was completed, this city received great honor. It was designated by UNESCO to be a world cultural heritage site due to the city’s utterly unique layout and architecture. At that time, Anansi was also assessed to be the leading metropolis for modern art by the world’s leading academics.</p>
-<p>While the metropolis was still under development, construction was once stopped due to a lack of available capital. Work was not able to resume until Gigacorp AKSUM financed the project with the vast majority of the remaining funds, under one condition. In the downtown, an area must be reserved for Gigacorp AKSUM to be their brand-new headquarters, in the form of the Queen of Sheba, the icon of the gigacorp.</p>
-<p>Most people visiting Anansi start their tour with the central business area. This is where most public art and amphitheaters are located. From dawn to dusk, songs and dancing from across the vast African musical tradition are performed. The shows never stop in every business area in the feminam area &#8212; This is the place to go if you’d like to witness the debut of a future superstar, with all kinds of amazing music echoing in the wild.</p>
-<p>When travelers leave the central business area to explore further into the general administration area, they have a better understanding of the essence of the community culture, which converges from every African country. Locals even refer to Gigapolis Anansi as a miniature Africa.</p>
-<p><strong>City Planning:</strong> The feminam area is inspired by the local mythology of West Africa and the Nazca totems in South America. The city designer took the bold choice of adopting the original idea of the Nazca lines as part of the city planning, while keeping the cultural feeling of the city distinctly African.</p>
-<p>The main city of Gigapolis Anansi is shaped as twin spiders, each looking identical with three main city areas corresponding to the head, chest and belly. The eight main lines extending outwards are reminiscent of four pairs of spider legs. When viewed from space, its shape is obvious.</p>
-<p>The feminam area is laid out thusly:</p>
-<p><strong>The Spider Belly:</strong> This is a giant power plant reacting with nuclear fusion, which provides the inhabitants clean and ample energy. In the meantime, the Spider Belly is also the core for local economics and business.</p>
-<p><strong>High-End Residential Area:</strong> A group of modern buildings constructed with high technology after the war. Residents who live or pass by here have a higher Citizen Development Index. The interior design is a collage of various structure styles of the old time, known for its aesthetics and diversity.</p>
-<p><strong>Face of Sheba:</strong> Under the control of Gigacorp AKSUM, Gigapolis Anansi houses the company’s headquarters. Therefore, in the center of the Spider Belly, a massive mask colossus is built in the form of the Queen of Sheba, which can only be seen clearly when looked down on from above.</p>
-<p><strong>Residential areas:</strong> Every residential area has its own unique culture and features. The social order varies from district to district. In these areas, we can see buildings with vibrant colors and a short-distance transportation system elevated high in the air.</p>
-<p><strong>Administration Towers:</strong> Every residential district owns one that is accompanied with powerful images from local African cultures.</p>
-<p><strong>Main Lines Leading Outwards:</strong> The eight main lines, or legs, lead outwards and are connected to the Administration Area. These legs serve as the main mass transit system for the city, leading directly to the core downtown areas. If one looks down at the main lines with the Spider Belly, the feminam resembles the Nazca Lines composition of a spider.</p>						</div>
+								<p>阿南西城雌蛛區，是位於施惠治理區（Citivas LIBERALITAS）首都阿南西城（Gigapolis Anansi）東區的核心，以蜘蛛圖騰之腹部做為輪廓藍本，也是世界藝術評比名列第一的全球都會。這裡是以舊時代奈及利亞首都拉哥斯轉化而來，與迦納首都阿克拉所構成的雄蛛區遙相對望。</p><p>阿南西城別號「蜘蛛之城」（City of the Spider），坐落於西非。當初是由迦納、多哥、貝南、奈及利亞四國所聯合籌建，以西非「故事之神」阿南西（Anansi）信仰之代表符號「蜘蛛」為核心規劃概念。</p><p>阿南西城於建成之日，即獲得聯合國納入世界文化遺址之殊榮，更是當時世界藝術評比名列第一之嶄新科技都會。</p><p>在這座巨都的建築過程中，一度由於資金匱乏而導致進度停擺，直到阿克蘇姆財團（Gigacorp AKSUM）以雄厚資本提供奧援，才得以持續完成；而其附帶的交換條件，則是在市區規劃一塊精華區域，以提供阿克蘇姆財團設置其全新的企業總部，並帶入屬於財團象徵的「示巴女王」（Queen of Sheba）巨像。</p><p>遊人若要探訪阿南西城，首推便是其中央商業區了。這裡有全世界最多的公共藝術及最多的露天劇場。無時無刻，源自遼闊非洲大地各處的歌謠與舞蹈，都在雌蛛區的各商業區段不間斷演出——你能在這裡見識到明日世界巨星初登舞台的風采，以及各種迴盪在曠野中的動人嗓聲。</p><p>當你離開中央商業區，繼續深入探訪各個一般行政區時，則更能感受原來非洲各國匯聚於此的社群文化精髓。我們甚至可以這樣說：阿南西城，實際上便是整個非洲大陸的縮影。</p><p>阿南西城雌蛛區的整體設計，揉合了西非當地的神話元素與南美洲納斯卡圖騰概念。都市計劃師大膽採取了「納斯卡線實境化」之原創構想，進而演繹出充滿高質感的非洲文明圖像。</p><p>阿南西城的三個重點市區以蜘蛛的形狀做為主要都會輪廓，形塑出明確對應蜘蛛頭胸部及腹部之雙子都會區域；而向外延伸的八條主要幹道，則象徵蜘蛛的四對步足。在高空偵照鏡頭下，搭配都市計劃師刻意而為的都會輪廓線，令人一眼即能看出偉大阿南西城明確的蜘蛛外貌。</p><p>關於阿南西城雌蛛區（The feminam area）的城區景觀，可再詳細描繪如下：</p><p><strong>蛛腹區 The Spider Belly</strong></p><p>為巨型核融合反應發電廠，以提供居民潔淨與充足能源，同時亦為當地主要經濟與商業核心區域。</p><p><strong>高級住宅區 High-End Residential Area</strong></p><p>戰後以高科技重建之新興建築群，居留及通行此處公民普遍擁有較高「公民發展指數」。內部建築由舊時代的許多建築風格拼裝而成，爭奇鬥艷，充滿多元風格。</p><p><strong>示巴之顏 Face of Sheba</strong></p><p>阿南西城為財團新總部所在地及勢力範圍，因此於蛛腹區中央建構了巨大的示巴女王面具雕像，唯有從上空俯瞰才能清楚辨識。</p><p><strong>一般行政區 Residential Areas</strong></p><p>每個行政區均有屬於自己的文化與特色，治安狀況也不盡相同。高彩度的建築特徵與架高的軌道短程交通系統是其特色。</p><p><strong>行政塔 Administration Towers</strong></p><p>每個行政區均有一座屬於自己的行政塔，具有強烈的當地文化象徵。</p><p><strong>聯外幹道 Main Lines Leading Outwards</strong></p><p>八條主要聯外幹道通往行政區，與城區搭配俯瞰就像是蜘蛛的納斯卡式構圖。</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/the-spider-belly/">THE SPIDER BELLY</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/tw/the-spider-belly/">阿南西城雌蛛區</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/the-spider-belly/feed/</wfw:commentRss>
+					<wfw:commentRss>/tw/the-spider-belly/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
 			</item>
 		<item>
-		<title>K.A.M.A.</title>
-		<link>/kama/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=kama</link>
-					<comments>/kama/#respond</comments>
+		<title>甲必丹武裝商船團</title>
+		<link>/tw/kama/?utm_source=rss&#038;utm_medium=rss&#038;utm_campaign=kama</link>
+					<comments>/tw/kama/#respond</comments>
 		
 		<dc:creator><![CDATA[Alfred]]></dc:creator>
 		<pubDate>Mon, 16 Aug 2021 04:04:22 +0000</pubDate>
 				<category><![CDATA[Universe]]></category>
-		<guid isPermaLink="false">/?p=1473</guid>
+		<guid isPermaLink="false">/index.php/archives/2804/</guid>
 
-					<description><![CDATA[<p>K.A.M.A._ K.A.M.A. Rumor has it that during the G.A.M.E.R.S War, there was a luxurious cruise ship in the Pacific Ocean. On the ship, Bernard Lamp was the official in charge of judicial affairs, and he successfully defended the vessel from pirates with his G.A.M.E.R. talents when facing attacks on the [...]</p>
-<p>The post <a href="/kama/">K.A.M.A.</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></description>
-										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="1473" class="elementor elementor-1473" data-elementor-settings="[]">
+					<description><![CDATA[<p>甲必丹武裝商船團_ 甲必丹武裝商船團 謠傳在 G.A.M.E.R.s’ War 期間，在太平洋上有艘豪華郵輪的法務士伯納德．藍普（Bernard Lamp），在面對海盜劫持時，不僅以 G.A.M.E.R. 異能擊退了海盜；更藉由成功談判，毫髮無傷地與本欲劫持的海盜展開全新的合作關係，彼此組成小型武裝商船團，互利共生。 接著，他與艾克康與烏拉諾斯兩大財團透過協商會談建立起商業默契，逐漸發展成太平洋上的一股獨立勢力「甲必丹武裝商船團」（KAPITEIN Armed Merchant Armada；K.A.M.A.），以非官方形式維護太平洋上的航運安全。 期間，甲必丹武裝商船團也開始接納一些中小型海上勢力加盟——例如在東南亞海域由林詠玉領導的「洋流先鋒」（Vanguard of the Currents；V.O.C.）——逐漸擴大規模。藍普非常欣賞林詠玉的聰慧與膽識，膝下無子的他收林詠玉為義女，親授關於領導武裝商船團的一切，並提拔她為船團副總座。 FATE War 爆發，甲必丹武裝商船團在「機械天使軍團」（Mechanical Angel Legion；M.A.L.）發動的第一波攻擊中，喪失了絕大部分的船隊武裝與火力；一片狼藉中，林詠玉率領殘眾開始重整甲必丹武裝商船團，火速搶收列強位於太平洋上的殘存軍事艦艇，重整旗鼓。 因緣際會下，這個巡航於大洋間的獨立船團，變為 FATE War 時代碩果僅存的人間樂土；林詠玉並在一年戰爭期間發展至準強國的規模，最終成了少數幾個有能力獨立於 G.U.N. 統治之外、雄霸一方的外圍勢力。 甲必丹武裝商船團在戰後成為了不屬於 G.U.N. 的獨立政治實體，同時擁有數個分船團。有著層層疊疊山城氣息的總旗艦不僅是行政中心，充滿著大航海時代風味的官式建築也是看點之一。 在甲必丹武裝商船團裡，能夠在漁業區看見黃鰭鮪等一度被認為滅絕的大洋洄游性魚類。另外由於船團本身也有位於水中的珊瑚礁潛艦，因此也能提供浮潛服務。 甲必丹武裝商船團的必吃美食，則是產自漁業區的海鮮，由於使用了過濾掉塑膠微粒的海水養殖，這裡出產的海鮮都可以安心食用，是這時代難得的奢侈。 甲必丹武裝商船團位於太平洋上、隨著洋流到處移動，是個沒有固定位置的海上浮游國度。遺世獨立於 G.U.N. 統治外，有著自己的統治規則。船團的船隻來自世界各地，因而因此除了歐式現代船艦之外，也有復古的東方戎克船（junk ship） 等各種風格船隻存在。 由具備各種功能的大小船隻組成自給自足的生活圈，包括了指揮整體船團與供給能源的中樞區、對外貿易區、漁業與養殖區及農業區。 由於採取全民皆兵制，因此沒有專門的居住區與武裝區，而是將武裝據點或砲塔散佈在整個船團之間；另外，艦隊區則包含了一系列海上與空中的艦隊，必要時能脫離船團進行獨立的軍事行動。 船團組成：以旗艦與主要動力艦與為核心，船隻的塔台位置最高。此外基本上依據船隻大小配置，體積越小的船隻數量越多、配置在越外圍。除了藉由便橋彼此連接之外，也會設置與主要動力艦的（可拆卸式）能源輸送管線。以下簡介船團各重要組成： 旗艦 The Flagship 武裝商船團最高聳的座艦，本身亦為高級住宅區，格局有點類似山城的感覺，最頂端為艦隊司令部所在地。甲必丹武裝商船團旗艦，是目前全世界唯一的海洋型水冷式大型核融合引擎，足以提供整個武裝商船團的能源，以及軍事武裝動力。除了船團領袖與重要幹部的官邸與居所之外，也包含了各分船團軍頭在此船之別館、接待 G.U.N. 等其他政治實體使節的招待所，以及高級娛樂區域。 住宅區 The Residential [...]</p>
+<p>The post <a href="/tw/kama/">甲必丹武裝商船團</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></description>
+										<content:encoded><![CDATA[<div data-elementor-type="wp-post" data-elementor-id="2804" class="elementor elementor-2804" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
 							<section class="elementor-section elementor-top-section elementor-element elementor-element-e85967f elementor-section-full_width elementor-section-stretched elementor-section-height-default elementor-section-height-default" data-id="e85967f" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
 						<div class="elementor-container elementor-column-gap-no">
@@ -827,7 +822,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-f0ec3f1 file-title elementor-widget elementor-widget-heading" data-id="f0ec3f1" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">K.A.M.A._</h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">甲必丹武裝商船團_</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -848,7 +843,7 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-5503c5b single-universe-title elementor-widget elementor-widget-heading" data-id="5503c5b" data-element_type="widget" data-widget_type="heading.default">
 				<div class="elementor-widget-container">
-			<h2 class="elementor-heading-title elementor-size-default">K.A.M.A. </h2>		</div>
+			<h2 class="elementor-heading-title elementor-size-default">甲必丹武裝商船團</h2>		</div>
 				</div>
 					</div>
 		</div>
@@ -860,16 +855,16 @@
 			<div class="elementor-widget-wrap elementor-element-populated">
 								<div class="elementor-element elementor-element-ea62281 elementor-widget elementor-widget-text-editor" data-id="ea62281" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-								<p>Rumor has it that during the G.A.M.E.R.S War, there was a luxurious cruise ship in the Pacific Ocean. On the ship, Bernard Lamp was the official in charge of judicial affairs, and he successfully defended the vessel from pirates with his G.A.M.E.R. talents when facing attacks on the sea. As the war continued to escalate and the opportunity to find a safe port became more and more rare, he was able to successfully negotiate a new partnership with the marauding fleets of pirates. Ever since then, Lamp has set up a small armed merchant armada, creating rights of free passage and weapons trading agreements between the pirates and local nations around the Pacific.</p><p>Subsequent to the profitable trading arrangements with the pirates, Lamp built up a close business relationship with Gigacorp EKEKCONN and Gigacorp URANUS, forming an independent power known as the KAPITEIN Armed Merchant Armada (K.A.M.A.) and thus began maintaining peace and safety in the Pacific Ocean without formal authorization.</p><p>As the Armada continued to grow in size and influence, Lamp began to forge alliances with existing small-medium powers on the sea, such as the Vanguard of Currents, led by Lin Yung-Yu, in the Indo-Pacific. Since Lamp had no heir, he took Lin Yung-Yu in as his godchild because of her brains and bravery. Hand in hand, Lamp taught Lin anything and everything about K.A.M.A. and promoted her to be a staff captain.</p><p>At the beginning of the FATE War, K.A.M.A. lost most of their armed ships and gunpowder in the first wave of attack by the M.A.L. LUXURIA. In ruins and remains, Lin assumes leadership and starts to rebuild K.A.M.A., by taking over the destroyed ships on the sea. Over a period of years, under her steady command, the group was able to reconstruct itself to its former glory.</p><p>By chance, this independent armada, cruising among oceans, has become the only paradise on earth during the FATE War. Within one year, K.A.M.A. has become as strong as a superpower. In the end, Lin has led K.A.M.A. to grow into one of the few external powers, completely unattached to G.U.N.’s rule and dominating the ocean. His unique G.A.M.E.R. powers allowed the fleet to rapidly rearm and rebuild even with the world torn asunder by conflict.</p><p>After the war, K.A.M.A. turned into a self-reliant political entity, free from the G.U.N., in possession of several convoys. Built from some of the largest ships ever constructed, when viewed from the horizon the outline of the Armada resembles a vast mountain range. The main fleet serves as the administration center, constructed with an abundance of official buildings modeled after famous vessels from the Age of Discovery. This unique scene makes it one of the must-see attractions of K.A.M.A.</p><p>In K.A.M.A., we can see migratory fish that were once considered extinct, such as yellowfin tuna, in the fishery area. The armada has numerous submarines in its possession, so people can sometimes enjoy diving among coral reefs as the fleet transits the Pacific Ocean.</p><p>When it comes to must-eat delicacies in K.A.M.A., seafood from the fishery area are at the top of the list. The seafood harvested here grows in seawater where plastic particles have been filtered out. It is perfectly safe to eat any seafood that comes from K.A.M.A. Clean seafood is a rare luxury in the world, but abundant in the armada.</p><p>Moving around with the currents in the Pacific Ocean, K.A.M.A. is a floating land without a fixed location. Isolated from G.U.N.’s rule, K.A.M.A. has its own laws. Their ships come from every corner of the world, including modern European ships and ancient Chinese junk ships.</p><p>Enjoying a self-sufficient existence, K.A.M.A. is equipped with boats and ships, big and small, specialized for all kinds of functions. The central area commands the whole fleet and provides energy, the foreign trade area deals with tourism and customs, as well as fishery, aquaculture, and agriculture areas. Since at its core this fleet is an armada, there are also zones for defense facilities and armed military ships.</p><p>On K.A.M.A., it is mandatory for all able-bodied citizens to serve in the military. To remain more flexible in case of an attack, there are no designated residential or weapons storage spaces. Rather, arms and turrets are spread out between the whole armada to minimize risk. As for the fleet, K.A.M.A. has a series of warships designed for air and naval strikes. When the situation calls for it, these warships can be detached from the armada for independent military operation.</p><p><strong>Ships That Make up KAMA:</strong> The flagship and the main power ship are in the center, and they are situated in the highest point of K.A.M.A. Other ships are positioned based on their size and number. In general, the smaller a ship is, the more of them there are and the farther they are away from the center. A detachable energy transfer pipeline system is installed between the main power ship and the rest of the fleet, as well as a robust network of flexible bridges for ease of travel. The following is a brief introduction of the important sections of K.A.M.A.</p><p><strong>The Flagship: </strong>The highest capital ship in K.A.M.A., this was once BernardLamp’s original vessel, now serving as an upper-class residential area. From the outside, it looks like a city in the mountains, with the fleet command on the top. K.A.M.A. has the only water-cooled massive nuclear fusion engine in the world, which is able to provide plentiful energy for both the civilian and military sections of the fleet.Apart from residence for the Admiral and command staff, the flagship also boasts mansions for the leader of every convoy, guest houses for envoys from G.U.N. or other political entities, as well as world class recreation areas.</p><p><strong>The residential areas:</strong> Retrofitted from what once were premium cruise ships, these residential units are scattered throughout the flotilla. Each ship can house thousands of residents comfortably.</p><p><strong>The agriculture area:</strong> An enormous area assembled with cargo ships, on which crops are cultivated along with a limited number of livestock. On the bottom where the ballast water was originally retained, fresh water is now stored.</p><p><strong>The fishery and aquaculture area:</strong> Situated on the exterior fringe of K.A.M.A., the fishery and aquaculture area is equipped with extensive floating enclosures to raise fish and mollusks. There are also Seine fishing boats, like those used before the FATE War, which can detach from the armada for independent fishing operations.</p><p><strong>The industrial zone:</strong> While limited in the Armada, over the course of its travels multiple priceless FATE War relics have been recovered. This area of the flotilla is responsible for initial salvage, reverse engineering and maintenance of all FATE related technology.</p><p><strong>The foreign trade area:</strong> This area is populated by numerous vessels that used to be freight cargo container ships. Retrofitted into massive warehouses, these ships serve as the primary point of entry between foreign ships for trade with people from all over the world and the Armada. While clearing customs in the Armada is notoriously difficult, merchants around the world know that the fleet is one of the most lucrative trading outposts available and are always willing to wait.</p><p><strong>Empty mooring berth:</strong> Guests or ships with permits to enter can moor in this area, in accordance with the guidance from the harbormaster.</p><p><strong>Turrets/defense facilities:</strong> As one of the most important pieces of equipment in the organization, such facilities are spread out among the whole armada and are usually made up with railguns, all kinds of missiles and anti-aircraft artillery.</p><p><strong>Armed ships:</strong> Located on the exterior of the armada, these fleets consist of vessels for air-and-naval operations. When needed, the armed ships can detach from K.A.M.A. to carry out independent military operations.</p>						</div>
+								<p>謠傳在 G.A.M.E.R.s’ War 期間，在太平洋上有艘豪華郵輪的法務士伯納德．藍普（Bernard Lamp），在面對海盜劫持時，不僅以 G.A.M.E.R. 異能擊退了海盜；更藉由成功談判，毫髮無傷地與本欲劫持的海盜展開全新的合作關係，彼此組成小型武裝商船團，互利共生。</p><p>接著，他與艾克康與烏拉諾斯兩大財團透過協商會談建立起商業默契，逐漸發展成太平洋上的一股獨立勢力「甲必丹武裝商船團」（KAPITEIN Armed Merchant Armada；K.A.M.A.），以非官方形式維護太平洋上的航運安全。</p><p>期間，甲必丹武裝商船團也開始接納一些中小型海上勢力加盟——例如在東南亞海域由林詠玉領導的「洋流先鋒」（Vanguard of the Currents；V.O.C.）——逐漸擴大規模。藍普非常欣賞林詠玉的聰慧與膽識，膝下無子的他收林詠玉為義女，親授關於領導武裝商船團的一切，並提拔她為船團副總座。</p><p>FATE War 爆發，甲必丹武裝商船團在「機械天使軍團」（Mechanical Angel Legion；M.A.L.）發動的第一波攻擊中，喪失了絕大部分的船隊武裝與火力；一片狼藉中，林詠玉率領殘眾開始重整甲必丹武裝商船團，火速搶收列強位於太平洋上的殘存軍事艦艇，重整旗鼓。</p><p>因緣際會下，這個巡航於大洋間的獨立船團，變為 FATE War 時代碩果僅存的人間樂土；林詠玉並在一年戰爭期間發展至準強國的規模，最終成了少數幾個有能力獨立於 G.U.N. 統治之外、雄霸一方的外圍勢力。</p><p>甲必丹武裝商船團在戰後成為了不屬於 G.U.N. 的獨立政治實體，同時擁有數個分船團。有著層層疊疊山城氣息的總旗艦不僅是行政中心，充滿著大航海時代風味的官式建築也是看點之一。</p><p>在甲必丹武裝商船團裡，能夠在漁業區看見黃鰭鮪等一度被認為滅絕的大洋洄游性魚類。另外由於船團本身也有位於水中的珊瑚礁潛艦，因此也能提供浮潛服務。</p><p>甲必丹武裝商船團的必吃美食，則是產自漁業區的海鮮，由於使用了過濾掉塑膠微粒的海水養殖，這裡出產的海鮮都可以安心食用，是這時代難得的奢侈。</p><p>甲必丹武裝商船團位於太平洋上、隨著洋流到處移動，是個沒有固定位置的海上浮游國度。遺世獨立於 G.U.N. 統治外，有著自己的統治規則。船團的船隻來自世界各地，因而因此除了歐式現代船艦之外，也有復古的東方戎克船（junk ship） 等各種風格船隻存在。</p><p>由具備各種功能的大小船隻組成自給自足的生活圈，包括了指揮整體船團與供給能源的中樞區、對外貿易區、漁業與養殖區及農業區。</p><p>由於採取全民皆兵制，因此沒有專門的居住區與武裝區，而是將武裝據點或砲塔散佈在整個船團之間；另外，艦隊區則包含了一系列海上與空中的艦隊，必要時能脫離船團進行獨立的軍事行動。</p><p>船團組成：以旗艦與主要動力艦與為核心，船隻的塔台位置最高。此外基本上依據船隻大小配置，體積越小的船隻數量越多、配置在越外圍。除了藉由便橋彼此連接之外，也會設置與主要動力艦的（可拆卸式）能源輸送管線。以下簡介船團各重要組成：</p><p><strong>旗艦 The Flagship</strong></p><p>武裝商船團最高聳的座艦，本身亦為高級住宅區，格局有點類似山城的感覺，最頂端為艦隊司令部所在地。甲必丹武裝商船團旗艦，是目前全世界唯一的海洋型水冷式大型核融合引擎，足以提供整個武裝商船團的能源，以及軍事武裝動力。除了船團領袖與重要幹部的官邸與居所之外，也包含了各分船團軍頭在此船之別館、接待 G.U.N. 等其他政治實體使節的招待所，以及高級娛樂區域。</p><p><strong>住宅區 The Residential Areas</strong></p><p>由過去航行世界的高級郵輪所改造而成，散居於整座船團各區，每艘均能容納數千名居民生活起居。</p><p><strong>農業區 The Agriculture Area</strong></p><p>由具備大面積的貨輪等拼裝整併改造而成的大面積複合船體，表面做為農作物栽植，或者少量動物畜養使用；船艙底層原本收納壓艙水的部分，則用以儲存淡水。</p><p><strong>漁業與養殖區 The Fishery and Aquaculture Area</strong></p><p>位於船團外圍，有箱網船做為養殖用途；也有如 FATE War 前的漁船可離開船團獨立捕魚作業。</p><p><strong>工業區 The Industrial Zone</strong></p><p>船團有專屬的工業區，除了開發自身需要的零件，也負責解析沉入海中的 FATE 黑科技。</p><p><strong>對外貿易區 The Foreign Trade Area</strong></p><p>包含許多碼頭船，銜接相關的腹地船，能與來自世界各地的船隻銜接進行貨物交易。眾所周知，想在甲必丹通關是出奇困難，但看在超高利潤的份上，來自世界各地的代理商仍願意耐心等待。</p><p><strong>空港 Aeromarine Mooring Berth</strong></p><p>外賓或者獲准進入的特殊船隻，可依據塔台的調度停泊於空港區。</p><p><strong>砲塔／防禦設施 Turrets/Defense Facilities</strong></p><p>散佈於整個船團之間，通常具備了磁軌砲、各類飛彈及防空火砲等單位，是基礎的編裝單位。</p><p><strong>武裝艦隊 Armed Ships</strong></p><p>分成數個艦隊，散佈於船團外圍，由海空作戰用艦艇組成，必要時可以離開整個船團進行獨立軍事行動。</p>						</div>
 				</div>
 					</div>
 		</div>
 							</div>
 		</section>
 						</div>
-					</div><p>The post <a href="/kama/">K.A.M.A.</a> first appeared on <a href="/">ROG SAGA</a>.</p>]]></content:encoded>
+					</div><p>The post <a href="/tw/kama/">甲必丹武裝商船團</a> first appeared on <a href="/tw/">ROG SAGA</a>.</p>]]></content:encoded>
 					
-					<wfw:commentRss>/kama/feed/</wfw:commentRss>
+					<wfw:commentRss>/tw/kama/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
 		
 		
